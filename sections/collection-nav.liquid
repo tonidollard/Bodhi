@@ -1,0 +1,58 @@
+{{ 'component-collection-nav.css' | asset_url | stylesheet_tag }}
+
+{% if section.settings.show %}
+<div class="collection-nav"> 
+    <div class="page-width"> 
+    <div class="collection-nav_inner"> 
+    {%- for block in section.blocks -%}
+        {% if block.settings.nav_link contains request.path %} 
+        <div class="collection-nav_item active">
+            <a href="{{ block.settings.nav_link }}">{{ block.settings.title }}</a>
+        </div>
+        {% endif %}
+    {%- endfor -%} 
+    {%- for block in section.blocks -%}
+        {% unless block.settings.nav_link contains request.path %} 
+        <div class="collection-nav_item{% if block.settings.nav_link contains request.path %} active{% endif %}">
+            <a href="{{ block.settings.nav_link }}">{{ block.settings.title }}</a>
+        </div>
+        {% endunless %}
+    {%- endfor -%}  
+    </div>
+    </div>
+</div>
+{% endif %}
+
+{% schema %}
+    {
+        "name": "Collection nav", 
+        "settings": [
+            {
+                "type": "checkbox",
+                "id": "show",
+                "label": "Show navigation",
+                "default": false
+            }
+        ],
+        "blocks": [
+            {
+                "type": "nav-item",
+                "name": "Nav item",
+                "limit": 12,
+                "settings": [
+                    {
+                        "type": "text",
+                        "id": "title",
+                        "label": "Nav title",
+                        "default": "Nav title"
+                    },
+                    {
+                        "type": "url",
+                        "id": "nav_link",
+                        "label": "Nav link"
+                    }
+                ]
+            }
+        ]
+    }
+{% endschema %} 

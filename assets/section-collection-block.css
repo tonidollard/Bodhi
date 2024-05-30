@@ -1,0 +1,68 @@
+.section-collection-block {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: calc(700px - 2vw);
+  padding: 40px;
+  border-radius: calc(1.25 * var(--card-corner-radius));
+  overflow: hidden;
+  text-align: center;
+}
+
+.section-collection-block h3 {
+  font-size: 32px;
+}
+
+.section-collection-block h3 {
+  margin: 0 0 15px;
+}
+
+@media screen and (max-width: 1199px) {
+  .section-collection-block {
+    height: calc(600px - 2vw);
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .section-collection-block {
+    height: calc(500px - 2vw);
+  }
+}
+@media (min-width: 750px) and (max-width: 991px) {
+  .section-collection-block{
+    padding: 40px
+  }
+
+  .section-collection-block h3 {
+    font-size: 25px;
+  } 
+}
+
+@media screen and (max-width: 749px) {
+  .section-collection-blocks .grid {
+    flex-direction: column;
+    row-gap: 20px;
+  }
+
+  .section-collection-block {
+    height: 160px;
+    max-width: 100%;
+    width: 100%;
+    align-items: center;
+    padding: 20px;
+    justify-content: flex-start;
+    text-align: left;
+  }
+
+  .section-collection-block .button {
+    min-height: 34px;
+    font-size: 14px;
+    min-width: 90px;
+    padding: 0 15px;
+  }
+
+  .section-collection-block h3 {
+    font-size: 22px;
+    margin: 0 0 10px;
+  }
+}

@@ -1,0 +1,78 @@
+<div class="brand-navigation">
+  {%- for block in section.blocks -%}
+    {%- if block.settings.url != blank -%}
+    <a class="brand-navigation-item" style="background-color: {{ block.settings.bg }};" href="{{ block.settings.url }}" {{ block.shopify_attributes }}>
+    {%- endif -%}
+      <div class="brand-navigation-inner"style="color: {{ block.settings.text-color }}" {%- unless block.settings.url != blank -%}{{ block.shopify_attributes }}{%- endunless -%}> 
+        <span>{{ block.settings.name }}</span>
+      </div>
+    {%- if block.settings.url != blank -%}
+    </a>
+    {%- endif -%}
+  {%- endfor -%}
+</div>
+
+<style>
+  .brand-navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .brand-navigation-item {
+    display: block;
+    flex: 1;
+    text-align: center;
+    padding: 5px 0;
+    font-weight: 800;
+    letter-spacing: -0.75px;
+    font-size: 15px;
+    text-decoration: none;
+  }
+
+  
+  @media screen and (max-width: 749px) {
+    .brand-navigation-item {
+      font-size: 11px;
+      padding: 6px 0;
+    }
+  }
+</style>
+
+{% schema %}
+{
+  "name": "Brand navigation",
+  "settings": [],
+  "blocks": [
+    {
+      "type": "navigation",
+      "name": "Navigation block",
+      "settings": [
+        {
+          "type": "color",
+          "id": "bg",
+          "label": "Background color",
+          "default": "#fff"
+        },
+        {
+          "type": "color",
+          "id": "text-color",
+          "label": "Text color",
+          "default": "#222"
+        },
+        {
+          "type": "text",
+          "id": "name",
+          "label": "Brand name",
+          "default": "PlantGoods"
+        },
+        {
+          "type": "url",
+          "id": "url",
+          "label": "Select Url"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

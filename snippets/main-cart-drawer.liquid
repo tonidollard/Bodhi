@@ -1,0 +1,14 @@
+
+
+<script src="{{ 'cart-drawer.js' | asset_url }}" defer="defer"></script> 
+
+<div class="cart-drawer__outer">
+
+    <cart-drawer class="cart-drawer{% if cart == empty %} drawer-empty{% endif %}">
+        <div class="cart-drawer__inner">
+        {% render 'main-cart-items' %}
+        {% render 'main-cart-footer' %}
+        </div>
+    </cart-drawer>
+    <div class="cart-drawer-backdrop small-hide" data-cart-drawer-close></div>
+</div>

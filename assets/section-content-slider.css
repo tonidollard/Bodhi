@@ -1,0 +1,209 @@
+.content-slider-slides {
+  display: flex;
+}
+
+.content-slider-slides.keen-slider {
+  margin: 0 -8px !important;
+  overflow: visible !important;
+  width: calc(100% + 16px) !important;
+  flex-wrap: wrap;
+}
+
+.content-slider-slides.keen-slider .keen-slider__slide {
+  width: 50%;
+  min-width: 50%;
+  max-width: 50%;
+  padding: 8px 8px 16px;
+  overflow: visible;
+}
+
+.content-slider-slides.keen-slider.slider_mobile {
+  flex-wrap: nowrap;
+}
+
+.content-slider-slides.keen-slider.slider_mobile .keen-slider__slide {
+  width: 47%;
+  min-width: 47%;
+  padding: 10px;
+  overflow: visible;
+}
+
+.content-slider-slides .keen-slider__slide .link-no-underline {
+  display: block;
+}
+
+.content-slider img {
+  width: 100%;
+  height: auto;
+  perspective: 1000;
+  backface-visibility: hidden;
+  transform: translate3d(0, 0, 0);
+  -webkit-perspective: 1000;
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: translate3d(0, 0, 0);
+  z-index: 2;
+}
+
+.content-slider h2 {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.content-slider__info {
+  display: flex;
+  flex-direction: column;
+}
+
+.content-slider__info--middle {
+  justify-content: center;
+}
+
+.content-slider__info--bottom {
+  justify-content: flex-end;
+}
+
+.content-slider__image {
+  position: relative;
+}
+
+.content-slider__image--media {
+  border-radius: var(--card-corner-radius);
+  overflow: hidden;
+}
+
+.content-slider__image--media img {
+  border-radius: calc(var(--card-corner-radius) - 3px);
+}
+
+.content-slider__image--text {
+  width: 100%;
+  padding: 12px 0;
+}
+
+.content-slider__image--text h3 {
+  margin-bottom: 5px;
+  margin-top: 10px;
+  font-size: 21px;
+}
+
+.content-slider__image-hover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  border-radius: var(--card-corner-radius);
+  overflow: hidden;
+  perspective: 1000;
+  backface-visibility: hidden;
+  transform: translate3d(0, 0, 0);
+  -webkit-perspective: 1000;
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: translate3d(0, 0, 0);
+}
+
+.content-slider__image--description {
+  color: rgba(var(--color-base-text), 0.75);
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+
+@media screen and (min-width: 750px) {
+  .content-slider-slides.keen-slider {
+    margin: 0 -12px !important;
+    width: calc(100% + 24px) !important;
+  }
+
+  .content-slider-slides.keen-slider .keen-slider__slide,
+  .content-slider-slides.keen-slider.slider_mobile .keen-slider__slide {
+    width: 25%;
+    min-width: 25%;
+    max-width: 25%;
+    padding: 12px;
+    overflow: visible;
+  }
+
+  .content-slider .ontent-slider-slide {
+    padding: 16px;
+  }
+
+  .keen-slider__slide .button {
+    min-height: 38px;
+    font-size: 15px;
+  }
+
+  .content-slider__image--text {
+    bottom: 45px;
+  }
+
+  .content-slider__image .content-slider__image--text {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+
+  .content-slider__image--media .content-slider__image-main {
+    opacity: 1;
+    transition: 0.4s opacity ease;
+  }
+
+  /* .content-slider__image--media:hover .content-slider__image-main {
+    opacity: 0;
+  } */
+}
+
+@media (min-width: 750px) and (max-width: 991px) {
+  .content-slider__image--description {
+    font-size: 14px;
+    line-height: 1.3;
+  }
+
+  .content-slider__image--text h3 {
+    font-size: 18px;
+  }
+
+  .keen-slider__slide .button {
+    min-height: 36px;
+    font-size: 13px;
+  }
+
+  .content-slider .splide__slide.is-active .content-slider__image--text {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+
+@media screen and (max-width: 749px) {
+
+  .keen-slider__slide .button {
+    min-height: 32px;
+    font-size: 14px;
+    padding: 0 10px;
+    min-width: 100px;
+  }
+
+  .content-slider__image--text h3 {
+    font-size: 20px;
+    margin-top: 5px;
+  }
+
+  .content-slider .splide__slide.is-active .content-slider__image--text {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+  
+  .content-slider-slides.keen-slider.slider_mobile .keen-slider__slide .card__heading{
+    font-size: 16px;
+  }
+
+  .content-slider__image--media .content-slider__image-main {
+    opacity: 1;
+  }
+
+  .content-slider__image--description {
+    margin-bottom: 10px;
+    line-height: 1.4;
+    font-size: 14px;
+  }
+}

@@ -1,0 +1,19 @@
+<div class="card-collage-block card-wrapper" style="background-color: {{bg}};">
+    <div class="card card--{{ settings.card_style }}">
+        <div class="grid">
+            <div class="card-collage-block__info grid__item">
+                <h2>{{heading}}</h2>
+                <div>
+                    {%- if button_label != blank -%}
+                      <a {% if button_link == blank %} role="link" aria-disabled="true"{% else %} href="{{ button_link }}"{% endif %} class="button button--{{ button_style }}">{{ button_label | escape }}{% render 'icon-arrow-minimal' %}</a>
+                    {%- endif -%}
+                </div>
+            </div>
+            <div class="card-collage-block__media grid__item">
+                {%- if image != blank -%}
+                {{ image | image_url: width: 500 | image_tag: widths: '400, 680', preload: true, loading: 'lazy',  sizes: '(min-width: 750px) 400px, 60vw' }}
+                {%- endif -%}
+            </div>
+        </div>
+    </div>
+</div>

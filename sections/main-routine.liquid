@@ -1,0 +1,183 @@
+<script src="{{ 'routine-form.js' | asset_url }}" defer="defer"></script>
+{{ 'section-main-routine.css' | asset_url | stylesheet_tag }}
+
+<div class="routine--main">
+    <div class="page-width">
+
+        <routine-form>
+            <div class="routine--form">
+                {%- for block in section.blocks -%}
+                    {% case block.type %}
+                    {%- when 'product' -%}
+                    <div class="routine--form-heading">
+                        <h2>{{ block.settings.title }}</h2>
+                    </div>
+                    <div class="routine--form-field" data-product-{{forloop.index}}>
+                    {% assign main_index = forloop.index0 %}
+                    {% assign VariantSelection = " / 15 Servings"%}
+                    {% if block.settings.product.title contains "Superfood"%}
+                    {% assign VariantSelection = " / 30 Servings"%}
+                    {% endif %}
+                    {%- for variant in block.settings.product.variants -%}
+                    {% if variant.title contains VariantSelection %}
+                    <div class="routine--form-field-inner">
+                        <div class="routine--form-image">
+                            <button class="info-button" name="product details">
+                            {% render 'icon-info' %}
+                            </button>
+                            <img src="{{ variant.featured_image | image_url: width: 200 }}" loading="lazy" height="{{ variant.featured_image.height }}" width="{{ variant.featured_image.width }}">
+                        </div>
+                        <h3 class="h4"><a class="full-unstyled-link" href="{{ variant.url }}">{{ variant.title | remove: VariantSelection }}</a></h3>
+                        <div class="quantity-container">
+                            <quantity-input-routine class="quantity">
+                                <script type="application/json" data-variant>
+                                    {{ variant | json }}
+                                </script>
+                                <button class="quantity__button no-js-hidden" name="minus" type="button">
+                                <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: product.title | escape }}</span>
+                                {% render 'icon-minus' %}
+                                </button>
+                                <input class="quantity__input"
+                                    type="number"
+                                    name="quantity[{{main_index}}]"
+                                    min="0"
+                                    value="0"
+                                >
+                                <button class="quantity__button no-js-hidden" name="plus" type="button">
+                                <span class="visually-hidden">{{ 'products.product.quantity.increase' | t: product: product.title | escape }}</span>
+                                {% render 'icon-plus' %}
+                                </button>
+                            </quantity-input-routine>
+                            <button name="add-item" class="button--add {{ variant.title | truncatewords: 1, '' | downcase }}">+</button>
+                        </div>
+                        <div class="product-info-modal hidden">     
+                            <div class="product-info-image">
+                                {{ variant.metafields.routine.nutrition_facts.value | image_url: width: 892 | image_tag: widths: '375, 390, 420, 540, 600, 750, 780, 868', loading: 'lazy', sizes: '(min-width: 750px) 868px, (min-width: 480px) and (max-width: 749px) 600px, (min-width: 1px) and (max-width: 479px) 600px' }}
+                            </div>
+                            <div class="product-info-text">
+                                <span class="h4">{{ block.settings.product.title }}</span>
+                                <h2 class="h1">{{ variant.title | remove: VariantSelection }}</h2>
+                                <p>{{ block.settings.product.description }}</p>
+                                {% if variant.metafields.routine.description != blank %}
+                                <p>{{ variant.metafields.routine.description }}</p>
+                                {% endif %}
+                                <a href="{{ variant.url }}" class="button button--secondary">
+                                    Learn More
+                                    {% render 'icon-arrow-minimal' %}
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                    {% endfor %}
+                    </div>
+                    {%- endcase -%}
+                {%- endfor -%}
+            </div>
+        
+            <div class="routine--sidebar">
+                <div class="routine--sidebar-inner">
+                    <div class="routine--info">
+                        <h2 class="h2">{{ section.settings.title }}</h2>
+                        <p>{{ section.settings.text }}</p>
+                        <div class="selection-container" data-placeholder="{{ 'place.png' | asset_img_url: '200x' }}">
+                            <div class="selection--inner in-active">
+                                <button class="remove-item">{% render 'icon-close' %}</button>
+                                <img src="{{ 'place.png' | asset_img_url: '200x' }}" width="200" height="200" loading="lazy">
+                            </div>
+                            <div class="selection--inner in-active">
+                                <button class="remove-item">{% render 'icon-close' %}</button>
+                                <img src="{{ 'place.png' | asset_img_url: '200x' }}" width="200" height="200" loading="lazy">
+                            </div>
+                            <div class="selection--inner in-active">
+                                <button class="remove-item">{% render 'icon-close' %}</button>
+                                <img src="{{ 'place.png' | asset_img_url: '200x' }}" width="200" height="200" loading="lazy">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="routine--sidebar-button">
+                        {% comment %} 
+                        <div class="subscription-container">
+                            <input type="checkbox" id="subscription" name="subscription" value="subscription">
+                            <label for="subscription"> I have a bike</label>
+                            <span>Subscribe and Save 20%</span>
+                        </div> 
+                        {% endcomment %}
+                        <div class="price-container">
+                            <div class="subtotal">Subtotal</div>
+                            <div class="main-price">
+                                <span>{{ 0 | money }}</span>
+                            </div>
+                        </div>
+                        <button
+                            type="submit"
+                            name="add"
+                            class="rotuine-form__submit button button--full-width button--secondary"
+                            aria-disabled
+                            disabled
+                        >
+                            <span>
+                                Select 3 Options 
+                            </span>
+                            <div class="loading-overlay__spinner hidden">
+                                <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                                <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                                </svg>
+                            </div> 
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </routine-form>
+    </div>
+    <routine-modal>
+        <div class="routine-modal-info">
+            <button class="close-button" name="close modal">
+                {% render 'icon-close' %}
+            </button>
+            <div class="product-info-modal">
+            </div>
+        </div>
+        <div class="routine-modal-backdrop"></div>
+    </routine-modal>
+</div>
+
+{% schema %}
+    {
+        "name": "Build your routine",
+        "settings": [
+            {
+                "type": "text",
+                "id": "title",
+                "label": "Title",
+                "default": "Your Box"
+            },
+            {
+                "type": "textarea",
+                "id": "text",
+                "label": "Description",
+                "default": "You can add 3 or more products to avail the 10% off offer! Here is your selectection below."
+            }
+        ],
+        "blocks": [
+            {
+                "type": "product",
+                "name": "Product",
+                "settings": [
+                    {
+                        "type": "product",
+                        "id": "product",
+                        "label": "Select product"
+                    },
+                    {
+                        "type": "text",
+                        "id": "title",
+                        "label": "Section heading",
+                        "default": "Heading"
+                    }
+                ]
+            }
+        ]
+        
+    }
+{% endschema %}

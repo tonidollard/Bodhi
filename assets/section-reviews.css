@@ -1,0 +1,29 @@
+.review-slider {
+    overflow: hidden;
+}
+
+
+.review-slider .keen-slider__slide {
+    width: 100%;
+    min-width: 100%;
+    padding: 30px !important;
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+.review-slider .keen-slider {
+    flex-wrap: nowrap;
+    margin-top: 60px;
+}
+
+.review-slider .keen-slider:not([data-keen-slider-disabled]){
+    overflow: visible;
+}
+
+.review-slider .keen-slider h3{
+    margin-bottom: 50px;
+    font-family: serif;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 1.3;
+}

@@ -1,0 +1,484 @@
+<link rel="stylesheet" href="{{ 'component-rte.css' | asset_url }}" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="{{ 'section-rich-text.css' | asset_url }}" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="{{ 'component-jslider.css' | asset_url }}" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="{{ 'section-content-slider.css' | asset_url }}" media="print" onload="this.media='all'">
+ 
+<noscript>{{ 'component-rte.css' | asset_url | stylesheet_tag }}</noscript>
+<noscript>{{ 'section-rich-text.css' | asset_url | stylesheet_tag }}</noscript>
+<noscript>{{ 'component-jslider.css' | asset_url | stylesheet_tag }}</noscript>
+<noscript>{{ 'section-content-slider.css' | asset_url | stylesheet_tag }}</noscript>
+{{ 'component-card.css' | asset_url | stylesheet_tag }}
+
+<script src="{{ 'slider.min.js' | asset_url }}" defer="defer"></script>
+
+{%- style -%}
+
+  .section-{{ section.id }} {
+    {%- if section.settings.use_gradient -%}
+    background: {{ section.settings.bg-1 }};
+    background: -moz-linear-gradient(0deg, {{ section.settings.bg-2 }} 0%, {{ section.settings.bg-1 }} 100%);
+    background: -webkit-linear-gradient(0deg, {{ section.settings.bg-2 }} 0%, {{ section.settings.bg-1 }} 100%);
+    background: linear-gradient(0deg, {{ section.settings.bg-2 }} 0%, {{ section.settings.bg-1 }} 100%);
+    {%- else -%}
+    background-color: {{ section.settings.bg-1 }} 
+    {%- endif -%}
+  }
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top_mobile | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom_mobile | times: 0.75 | round: 0 }}px;
+  }
+
+  .section-{{ section.id }}-margin {
+    margin-top: {{ section.settings.margin_top_mobile | times: 0.75 | round: 0 }}px;
+    margin-bottom: {{ section.settings.margin_bottom_mobile | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+
+    .section-{{ section.id }}-margin {
+        margin-top: {{ section.settings.margin_top }}px;
+        margin-bottom: {{ section.settings.margin_bottom }}px;
+    }
+  }
+{%- endstyle -%}
+
+<div id="section--{{section.id}}" class="content-slider section-{{ section.id }} section-{{ section.id }}-padding section-{{ section.id }}-margin" style="max-width: 100vw; overflow: hidden;">
+    <div class="page-width {%- if section.settings.container-large %} page-width--large{% endif -%}">
+        {% if section.settings.heading != blank %}
+        {% if section.settings.heading_style == 'heading_with_text' %}
+        <div class="section--heading__secondary">
+            <div class="rich-text__blocks">
+                {% if section.settings.subheading != blank %}<span class="subheading" {{ section.shopify_attributes }}>{{ section.settings.subheading }}</span>{% endif %}
+                {% if section.settings.heading != blank %}<h2 class="{{ section.settings.heading_size }}" {{ section.shopify_attributes }}>{{ section.settings.heading }}</h2>{% endif %}
+                {% if section.settings.text != blank %}<div class="rich-text__text rte" {{ section.shopify_attributes }}>{{ section.settings.text }}</div>{% endif %}
+                {% if section.settings.button_link != blank %}
+                <a {% if section.settings.button_link == blank %}role="link" aria-disabled="true"{% else %} href="{{ section.settings.button_link }}"{% endif %} class="button{% if section.settings.button_style_secondary %} button--secondary{% else %} button--primary{% endif %}" {{ section.shopify_attributes }}>
+                    {{ section.settings.button_label | escape }}
+                </a>
+                {% endif %}
+            </div>
+        </div>
+        {% else %}
+        <div class="section-collection--heading section--heading text-left">
+            <h2 class="h1 section--heading-tag" style="background-color: {{ section.settings.bg-1 }}">{{ section.settings.heading }}</h2>
+        </div>
+        {% endif %}
+    {% endif %}
+        <div id="slider-{{ section.id }}" class="keen-slider content-slider-slides{% if section.settings.slider_mobile %} slider_mobile{% endif %}">   
+            {%- for block in section.blocks limit: 4 -%}
+                {%- case block.type -%}             
+                {%- when 'card' -%}
+                    <div class="keen-slider__slide  content-slider-slide number-slide{{ forloop.index }}" {{ block.shopify_attributes }}>
+                        {%- if block.settings.button_label != blank -%}
+                        <a class="link-no-underline" {% if block.settings.button_link == blank %} role="link" aria-disabled="true"{% else %} href="{{ block.settings.button_link }}"{% endif %}>
+                        {%- endif -%}
+                        <div class="content-slider__image--media ratio" {% if block.settings.image != blank %} style="--ratio-percent: {{ 1 | divided_by: block.settings.image.aspect_ratio | times: 100 }}%"{% else %} style="--ratio-percent: 100%"{% endif %}>
+                            {% if block.settings.image != blank %}
+                            {{ block.settings.image | image_url: width: 868 | image_tag: widths: '152, 304, 350, 420, 480, 510, 540, 670, 750, 780, 868', sizes: '(min-width: 750px) 22.5vw, 45vw', loading: 'lazy', class: 'content-slider__image-main'}} 
+                            {% else %}
+                            {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+                            {% endif %}
+                            {% if block.settings.video_url != blank %}
+                            {% comment %} <video class="content-slider__image-hover" autoplay="autoplay" loop="loop" muted="muted" playsinline="true" preload="none" webkit-playsinline="true" x5-playsinline="" style="width: 100%; height: 100%; object-fit: cover;">
+                                <source src="{{ block.settings.video_url }}" type="video/mp4">
+                            </video> {% endcomment %} 
+                            {% else %}
+                            {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+                            {% endif %}
+                        </div>
+                        <div class="content-slider__image--text"> 
+                            {%- if block.settings.title != blank -%}
+                                <h3 class="h2">{{block.settings.title}}</h3>
+                            {%- endif -%}
+                            {%- if block.settings.title != blank -%}
+                                <p class="content-slider__image--description">{{block.settings.description}}</p>
+                            {%- endif -%}
+                            <button {% if block.settings.button_link == blank %} aria-disabled="true"{% endif %} class="button button--{{ section.settings.button_style }}">{{ block.settings.button_label | escape }}</button>
+                        </div>
+                        {%- if block.settings.button_label != blank -%}
+                        </a>
+                        {%- endif -%}
+                    </div>
+                    {%- when 'product' -%}
+                    <div class="keen-slider__slide  content-slider-slide number-slide{{ forloop.index }}" {{ block.shopify_attributes }}>
+                        {% render 'card-product',
+                            card_product: block.settings.product,
+                            media_aspect_ratio: 'portrait',
+                            show_secondary_image: false,
+                            show_vendor: false,
+                            show_rating: false,
+                            lazy_load: true,
+                            btn_class: section.settings.button_style,
+                        %}
+                    </div>
+                {%- endcase -%}
+            {% endfor %}
+        </div>
+    </div> 
+</div>
+{% if section.settings.slider_mobile %}
+<script>
+    function loadSldier() { 
+        var sliderContent = new KeenSlider("#slider-{{ section.id }}", {
+            loop: false,
+            mode: "snap",
+            rtl: false,
+            breakpoints: {
+                "(min-width: 750px)": {
+                    disabled: true,
+                }, 
+            },
+            slides: { perView: "auto" },
+        })
+    }
+
+    document.addEventListener("shopify:section:load", function(e){
+        if(e.detail.sectionId === '{{section.id}}') {
+            loadSldier();
+        }
+    });
+
+    document.addEventListener("DOMContentLoaded", loadSldier);
+</script>
+{% endif %}
+{% schema %}
+    {
+        "name": "Content slider",
+        "settings": [
+            {
+                "type": "header",
+                "content": "General"
+            },
+            {
+                "type": "checkbox",
+                "id": "container-large",
+                "label": "Use larger container",
+                "default": false
+            },
+            {
+                "type": "checkbox",
+                "id": "slider_mobile",
+                "label": "Use slider on mobile",
+                "default": false
+            },
+            {
+                "type": "checkbox",
+                "id": "use_gradient",
+                "label": "Use gradient as BG",
+                "default": false
+            },
+            {
+                "type": "color",
+                "id": "bg-1",
+                "label": "Background color one",
+                "default": "#fff",
+                "info": "If not using gradient this color would be chosen as solid background"
+            },
+            {
+                "type": "color",
+                "id": "bg-2",
+                "label": "Background color two",
+                "default": "#fff"
+            },
+            {
+                "type": "header",
+                "content": "Section settings"
+            },
+            {
+                "type": "text",
+                "id": "subheading",
+                "default": "Subheading text",
+                "label": "Subheading"
+            },
+            {
+                "type": "text",
+                "id": "heading",
+                "default": "Talk about your brand",
+                "label": "t:sections.rich-text.blocks.heading.settings.heading.label"
+            },
+            {
+                "type": "select",
+                "id": "heading_style",
+                "label": "Heading Style",
+                "options": [
+                    {
+                        "value": "heading_with_text",
+                        "label": "Heading with text"
+                    },
+                    {
+                        "value": "only_heading",
+                        "label": "Only heading"
+                    }
+                ],
+                "default": "heading_with_text"
+            },
+            {
+                "type": "select",
+                "id": "heading_size",
+                "options": [
+               
+                  {
+                    "value": "h0",
+                    "label": "Heading 0"
+                  },
+                  {
+                    "value": "h1",
+                    "label": "Heading 1"
+                  },
+                  {
+                    "value": "h2",
+                    "label": "Heading 2"
+                  },
+                  {
+                    "value": "h3",
+                    "label": "Heading 3"
+                  },
+                  {
+                    "value": "h4",
+                    "label": "Heading 4"
+                  },
+                  {
+                    "value": "h5",
+                    "label": "Heading 5"
+                  },
+                  {
+                    "value": "h6",
+                    "label": "Heading 6"
+                  }
+                ],
+                "default": "h1",
+                "label": "t:sections.all.heading_size.label"
+            },
+            {
+                "type": "richtext",
+                "id": "text",
+                "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+                "label": "t:sections.rich-text.blocks.text.settings.text.label"
+            },
+            {
+                "type": "text",
+                "id": "button_label",
+                "default": "Button label",
+                "label": "t:sections.rich-text.blocks.button.settings.button_label.label"
+            },
+            {
+                "type": "url",
+                "id": "button_link",
+                "label": "t:sections.rich-text.blocks.button.settings.button_link.label"
+            },
+            {
+                "type": "checkbox",
+                "id": "button_style_secondary",
+                "default": false,
+                "label": "t:sections.rich-text.blocks.button.settings.button_style_secondary.label"
+            },
+            {
+                "type": "header",
+                "content": "Block settings"
+            },
+            {
+                "type": "select",
+                "id": "text_style",
+                "label": "Title style",
+                "options": [
+                    {
+                        "value": "accent-1",
+                        "label": "Accent 1"
+                    },
+                    {
+                        "value": "accent-2",
+                        "label": "Accent 2"
+                    },
+                    {
+                        "value": "background-1",
+                        "label": "Background 1"
+                    },
+                    {
+                        "value": "background-2",
+                        "label": "Background 2"
+                    }
+                ],
+                "default": "background-1",
+                "info": "Select text style for Image block titles"
+            },
+            {
+                "type": "select",
+                "id": "button_style",
+                "label": "Slide button style",
+                "options": [
+                  {
+                    "value": "primary",
+                    "label": "Primary"
+                  },
+                  {
+                    "value": "secondary",
+                    "label": "Secondary"
+                  },
+                  {
+                    "value": "primary-accent",
+                    "label": "Primary accent"
+                  },
+                  {
+                    "value": "primary-inverted",
+                    "label": "Primary inverted"
+                  },
+                  {
+                    "value": "primary-outline",
+                    "label": "Primary outline"
+                  }
+                ],
+                "default": "primary"
+            },
+            {
+                "type": "header",
+                "content": "Section Spacing"
+            },
+            {
+                "type": "range",
+                "id": "padding_top",
+                "min": 0,
+                "max": 100,
+                "step": 4,
+                "unit": "px",
+                "label": "t:sections.all.padding.padding_top",
+                "default": 0
+            },
+            {
+                "type": "range",
+                "id": "padding_bottom",
+                "min": 0,
+                "max": 100,
+                "step": 4,
+                "unit": "px",
+                "label": "t:sections.all.padding.padding_bottom",
+                "default": 0
+            },
+            {
+                "type": "range",
+                "id": "margin_top",
+                "min": 0,
+                "max": 100,
+                "step": 4,
+                "unit": "px",
+                "label": "Margin top",
+                "default": 0
+            },
+            {
+                "type": "range",
+                "id": "margin_bottom",
+                "min": 0,
+                "max": 100,
+                "step": 4,
+                "unit": "px",
+                "label": "Margin bottom",
+                "default": 0
+            },
+            {
+                "type": "header",
+                "content": "Mobile"
+            },
+            {
+                "type": "range",
+                "id": "padding_top_mobile",
+                "min": 0, 
+                "max": 100,
+                "step": 4,
+                "unit": "px",
+                "label": "t:sections.all.padding.padding_top",
+                "default": 0
+            },
+            {
+                "type": "range",
+                "id": "padding_bottom_mobile",
+                "min": 0,
+                "max": 100,
+                "step": 4,
+                "unit": "px",
+                "label": "t:sections.all.padding.padding_bottom",
+                "default": 0
+            },
+            {
+                "type": "range",
+                "id": "margin_top_mobile",
+                "min": 0,
+                "max": 100,
+                "step": 4,
+                "unit": "px",
+                "label": "Margin top",
+                "default": 0
+            },
+            {
+                "type": "range",
+                "id": "margin_bottom_mobile",
+                "min": 0,
+                "max": 100,
+                "step": 4,
+                "unit": "px",
+                "label": "Margin bottom",
+                "default": 0
+            }
+        ],
+        "blocks": [
+            {
+                "type": "card",
+                "name": "Card",
+                "settings": [
+                    {
+                        "type": "image_picker",
+                        "id": "image",
+                        "label": "Select image"
+                    },
+                    {
+                        "type": "url",
+                        "id": "video_url",
+                        "label": "Hover video url"
+                    },
+                    {
+                        "type": "text",
+                        "id": "title",
+                        "label": "Heading",
+                        "default": "Heading"
+                    },
+                    {
+                        "type": "textarea",
+                        "id": "description",
+                        "label": "Paragraph",
+                        "default": "We have spent years finding what ingredients we need to put together to become a superhero.  We figured it out!"
+                    },
+                    {
+                        "type": "text",
+                        "id": "button_label",
+                        "default": "Button label",
+                        "label": "t:sections.image-banner.blocks.buttons.settings.button_label_1.label",
+                        "info": "t:sections.image-banner.blocks.buttons.settings.button_label_1.info"
+                    },
+                    {
+                        "type": "url",
+                        "id": "button_link",
+                        "label": "t:sections.image-banner.blocks.buttons.settings.button_link_1.label"
+                    }
+                ]
+            },
+            {
+                "type": "product",
+                "name": "Product",
+                "settings": [
+                    {
+                        "type": "product",
+                        "id": "product",
+                        "label": "Product"
+                    }
+                ]
+            }
+        ],
+        "presets": [
+          {
+            "name": "Content slider"
+          }
+        ]
+    }
+{% endschema %}
