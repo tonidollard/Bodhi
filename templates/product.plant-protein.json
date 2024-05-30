@@ -1,1 +1,844 @@
-{"sections":{"zp-product-header-content":{"type":"product-header-content-zipifypages","settings":{}},"main":{"type":"main-product","blocks":{"vendor":{"type":"text","disabled":true,"settings":{"text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{}},"809acdcc-330d-407b-894d-ef0c0d60611c":{"type":"shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/star-rating\/bb689e69-ea70-4661-8fb7-ad24a2e23c29","disabled":true,"settings":{"product":"{{product}}"}},"price":{"type":"price","settings":{}},"description":{"type":"description","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button"}},"8e54bd74-a7e9-4f8a-a1d8-655836f4c70f":{"type":"subscription","disabled":true,"settings":{"sub_text":"","sub_link_text":"","sub_link":""}},"quantity_selector":{"type":"quantity_selector","disabled":true,"settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true}},"share":{"type":"share","disabled":true,"settings":{"share_label":"Share"}},"31813356-c48a-43b8-b578-9a73cb674c7f":{"type":"collapsible_tab","settings":{"heading":"Product Details","icon":"plant","content":"<p>We’ve Got the Goods On Easier Nutrition: We all need cushion time to evaluate new things. That’s why Plant Goods gives you a full 30-day promise to absorb, notice, and appreciate the game-changing benefits of our complete plant protein. If you ever have any questions, don’t hesitate to get in touch. Crafted to not be annoyingly complicated, depend on us to streamline your nutrition with everyday ingredients that'll invigorate your taste buds and body.<\/p>","page":""}},"b67b9fc1-2994-4ed3-8251-7bccd96e4690":{"type":"collapsible_tab","settings":{"heading":"Ingredients","icon":"clipboard","content":"<p>Protein Blend (Organic Pea Protein Isolate, Organic Rice Protein Isolate, Pumpkin Protein), Natural Flavors, Organic Tapioca Fiber, Organic Oat Bran, <strong>L-Leucine<\/strong>, Xylitol, Guar Gum, Organic Inulin, Organic B-Vitamin Complex (from Organic Quinoa Sprouts), Pink MUSCLE REPAIR Himalayan Sea Salt, Organic Acerola, Reb A (Stevia), Vitamin D3 (Cholecalciferol).<\/p>","page":""}},"9d0cda0b-2a5b-427f-b843-4a22417e26fd":{"type":"collapsible_tab","settings":{"heading":"Suggested Use","icon":"bottle","content":"<p>Put 1 scoop in your Plant Goods Shaker Bottle with 8-12 ounces of water and shake well! Drink 1-2 shakes a day for optimial results.  Add Superfood for maximum results!<\/p>","page":""}}},"block_order":["vendor","title","809acdcc-330d-407b-894d-ef0c0d60611c","price","description","variant_picker","8e54bd74-a7e9-4f8a-a1d8-655836f4c70f","quantity_selector","buy_buttons","share","31813356-c48a-43b8-b578-9a73cb674c7f","b67b9fc1-2994-4ed3-8251-7bccd96e4690","9d0cda0b-2a5b-427f-b843-4a22417e26fd"],"settings":{"enable_sticky_info":true,"gallery_layout":"thumbnail","media_size":"medium","mobile_thumbnails":"show","hide_variants":true,"enable_video_looping":false,"padding_top":48,"padding_bottom":80}},"product-recommendations":{"type":"product-recommendations","disabled":true,"settings":{"heading":"You may also like","heading_size":"h1","columns_desktop":4,"color_scheme":"background-1","image_ratio":"adapt","show_secondary_image":false,"show_vendor":false,"show_rating":false,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"1650546141ed30d512":{"type":"section-press","blocks":{"ffddea73-6553-4e4b-809b-e740dc5c19ee":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_233_1aa97228-b116-4006-89fe-1a56ae256954.png","claim":"Free Shipping on Order Above $99"}},"987f686b-ac7b-4423-9127-5bc3b4c61ef9":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_234_b58c4525-4b06-4150-b3cd-0a2819955844.png","claim":"Secured Payment & Checkout"}},"eeb21f66-8a30-4198-abb8-7dc082e57015":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_235_a7e21ff5-77c3-49e9-a451-fd614566ba9c.png","claim":"30 Day Money Back Guarantee"}},"ada3915d-a521-4ec0-9c39-9c026ead59d5":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_236_ddc5112c-377d-464b-85cf-76a7dfa3ef3d.png","claim":"Easy Returns"}}},"block_order":["ffddea73-6553-4e4b-809b-e740dc5c19ee","987f686b-ac7b-4423-9127-5bc3b4c61ef9","eeb21f66-8a30-4198-abb8-7dc082e57015","ada3915d-a521-4ec0-9c39-9c026ead59d5"],"settings":{"bg":"#ffffff","border_color":"#002e2d","text_color":"#00403e","section_type":"claims","title":"As Seen on","padding_top":8,"padding_bottom":8,"margin_top":0,"margin_bottom":0,"padding_top_mobile":12,"padding_bottom_mobile":12,"margin_top_mobile":0,"margin_bottom_mobile":0}},"1650787211c529422b":{"type":"multicolumn","blocks":{"2e3f5c99-9f01-4482-880d-d42f843a4e5c":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_102.png","title":"Vegan<br>Protein","text":"","link_label":"","link":""}},"1650787211be928b2f-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_98.png","title":"5 Grams<br>Fiber","text":"","link_label":"","link":""}},"f3213601-1ed0-44b8-ac6d-382bd3cedfff":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_101.png","title":"300% DV<br>Vitamin D3","text":"","link_label":"","link":""}},"1650787211be928b2f-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_99.png","title":"2 Billion<br>Probiotics","text":"","link_label":"","link":""}},"af7aa0bf-ccc8-4791-bd55-a74fe204377a":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_98.png","title":"Organically<br>\nSourced","text":"","link_label":"","link":""}},"1650787211be928b2f-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_100.png","title":"4 Grams<br>Leucine","text":"","link_label":"","link":""}}},"block_order":["2e3f5c99-9f01-4482-880d-d42f843a4e5c","1650787211be928b2f-0","f3213601-1ed0-44b8-ac6d-382bd3cedfff","1650787211be928b2f-1","af7aa0bf-ccc8-4791-bd55-a74fe204377a","1650787211be928b2f-2"],"settings":{"bg-1":"#ffffff","subheading_color":"#222222","title_color":"#00403e","text_color":"#00403e","title":"","heading_style":"heading_with_text","heading_size":"h1","card_heading":"h3","subheading":"Subheading text","text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","image_width":25,"image_width_mob":35,"image_ratio":"adapt","columns_desktop":6,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-2","columns_mobile":"2","swipe_on_mobile":false,"padding_top":72,"padding_bottom":44}},"1650718237dcaacecb":{"type":"multicolumn","blocks":{"165071823782110262-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/PP9.jpg","title":"Living The Plant Life","text":"<p>You don't have to be vegan to love the taste and results from plant based protein. Having options is best.  We've built the most complete protein formula on the market and we're here to prove it to you.<\/p>","link_label":"","link":""}},"165071823782110262-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/PP11.jpg","title":"Full-Stack Amino Profile","text":"<p>A big problem with plant based proteins is the lack of amino acids.  We have made sure to solve this problem by formulating a full amino stack in our product AND adding extra luecine to ensure the most effective product.<\/p>","link_label":"","link":""}}},"block_order":["165071823782110262-0","165071823782110262-1"],"settings":{"bg-1":"#ffffff","subheading_color":"#00403e","title_color":"#00403e","text_color":"#00403e","title":"Complete Aminos, Vitamin D3, Probiotics & A Great Taste","heading_style":"heading_with_text","heading_size":"h1","card_heading":"h2","subheading":"whats missing in plant protien?","text":"<p>So, we fixed that.  It wasn't cheap, but we did it. You can now get the results you need from your plant protein. Organic protiens and a full flavor will have you wanting more!<\/p>","image_width":100,"image_width_mob":100,"image_ratio":"adapt","columns_desktop":2,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-2","columns_mobile":"1","swipe_on_mobile":false,"padding_top":60,"padding_bottom":8}},"16474565353c0f5879":{"type":"image-with-text","blocks":{"261523db-8c0f-4bf8-8c64-3044348d9771":{"type":"subheading","settings":{"subheading_color":"#222222","subheading":"CLEAN LABEL PROTEIN"}},"1647456535adf22661-0":{"type":"heading","settings":{"heading_color":"#00403e","heading":"Complete With Replenishing Ingredients","heading_size":"h1"}},"1647456535adf22661-1":{"type":"text","settings":{"text_color":"#222222","text":"<p>Our plant protein contains\nwholesome ingredients your body needs to thrive. Made to restore your muscles, energy, and gut, our dairy, soy and\ngluten-free protein is a revolutionary supplement for your overall health. We're eliminating the complication so you\ncan focus on your body's restoration.<\/p>\n\n<ul role=\"list\" class=\"tick secondary\">\n  <li>Greens include spirulina, apple, spinach, wheat grass, & bell peppers<\/li>\n  <li>Reds like acai, cherry, tomato, raspberry, & goji<\/li>\n  <li> Yellow includes our Super Shroom Blend with shitake, reishi, Lion’s Mane, cordyceps, & more<\/li>\n<\/ul>","text_style":"body"}}},"block_order":["261523db-8c0f-4bf8-8c64-3044348d9771","1647456535adf22661-0","1647456535adf22661-1"],"settings":{"use_bg":true,"use_half_mobile":false,"full_width":true,"no_image":false,"bg":"#ffffff","bg_back":"#ffffff","bg_secondary":"#ffffff","image":"shopify:\/\/shop_images\/PP7.jpg","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"accent-2","mobile_content_alignment":"left","padding_top":84,"padding_bottom":84,"margin_top":0,"margin_bottom":0,"padding_top_mobile":8,"padding_bottom_mobile":48,"margin_top_mobile":0,"margin_bottom_mobile":0}},"16508033723f1bf783":{"type":"section-reviews","blocks":{"119a96e5-8157-4bab-ac6c-b7bcfb0105d2":{"type":"review","settings":{"review":"\"Plant Goods is one of the more palatable plant based protein shakes that I have come across, which is surprising due to the high levels of vitamins and minerals. I tried the Mint Chocolate version and found the mixture to be creamy and smooth when blended with Almond Milk.\"","review_name":"Mint Chocolate Customer"}},"e44361f7-94ab-4106-81cf-443ec7515f61":{"type":"review","settings":{"review":"\"Top quality ingredients, mixes easily, non grainy and tasts great. Just received and tried the cinnamon roll flavor and it did not disappoint. Have tried many plant based protein powders and found some good ones. This brand is the best so far.\"","review_name":"Cinnamon Roll Customer"}},"2a472acb-e22f-4069-9533-92921c255956":{"type":"review","settings":{"review":"\"Plant Goods knew what they were doing when they created this protein shake! Not only is the flavor fantastic, but the texture is smooth as well. The shakes mix easily with just water and also blend well with my favorite frozen fruit. The Vanilla Cake flavor is my all-time favorite! Definitely the best protein I have ever tasted-and I’ve been drinking protein shakes for years!\"","review_name":"Vanilla Cake Customer"}},"7f5667f9-b75d-4477-9069-004a5018ba6e":{"type":"review","settings":{"review":"\"Definitely a easy to blend protein, and going a little lower on the amount of water created a great consistency and well tasting cinnamon roll flavor that surpasses my old salted caramel I used to eat.\"","review_name":"Cinnamon Roll Customer"}},"23f19997-3abc-4905-b605-8ea15f0459df":{"type":"review","settings":{"review":"\"The real strength of this mix is the nutrition. It's almost a meal replacement with so many vitamins—over 40% of many essentials and billions of probiotics. It also has 6g of fiber and they don't list sugar, so I'm assuming there is none (they use stevia to sweeten as well).\"","review_name":"Mint chocolate customer"}}},"block_order":["119a96e5-8157-4bab-ac6c-b7bcfb0105d2","e44361f7-94ab-4106-81cf-443ec7515f61","2a472acb-e22f-4069-9533-92921c255956","7f5667f9-b75d-4477-9069-004a5018ba6e","23f19997-3abc-4905-b605-8ea15f0459df"],"settings":{"container-large":true,"use_gradient":false,"bg-1":"#003836","bg-2":"#00403e","subheading_color":"#ffeb7c","heading_color":"#ffffff","text_color":"#ffffff","rating_color":"#b15126","review_color":"#000000","review_name_color":"#00403e","subheading":"real people, real reviews","heading":"Don't Take Our Word For It","heading_style":"heading_with_text","heading_size":"h1","text":"<p>Plant Based Protein gets a bad rep for various reasons. It comes down to the formula and taste. We feel we got it right on both. People around the country are speaking up and here is what they say...<\/p>","button_label":"Button label","button_link":"","button_style_secondary":false,"text_style":"background-1","button_style":"primary","padding_top":68,"padding_bottom":76,"margin_top":0,"margin_bottom":0,"padding_top_mobile":76,"padding_bottom_mobile":84,"margin_top_mobile":0,"margin_bottom_mobile":0}},"16505476253e029045":{"type":"image-with-text","blocks":{"1650547625d1ae993e-0":{"type":"heading","settings":{"heading_color":"#00403e","heading":"Completed Formula & Bursting With Decadent Dessert Flavors!","heading_size":"h1"}},"1650547625d1ae993e-1":{"type":"text","settings":{"text_color":"#00403e","text":"Committed to changing the nutrition industry with all-in-one, empowering products, our plant protein contains\nwholesome ingredients your body needs to thrive. Made to restore your muscles, energy, and gut, our dairy, soy and\ngluten-free protein is a revolutionary supplement for your overall health. We're eliminating the complication so you\ncan focus on your body's restoration.\n<ul role=\"list\" class=\"tick\">\n  <li>Save more time in the morning.<\/li>\n  <li>Create more natural energy without stimulants <\/li>\n  <li> Watch your hair, skin and nails strengthen<\/li>\n<\/ul>","text_style":"body"}},"4aaef842-bc38-49ea-9af8-9f47aa59d7e1":{"type":"info-blocks","disabled":true,"settings":{"heading_color":"#ffffff","subheading_color":"#ffeb7c","heading1":"25%","subheading1":"Protein","heading2":"12%","subheading2":"Carbs","heading3":"0.1%","subheading3":"Sugar","heading4":"","subheading4":""}},"a0ae1f3e-fe60-49b8-98a9-9abdce5dcf2b":{"type":"reviews","disabled":true,"settings":{"text_color":"#ffffff","border_color":"#ffffff","rating_color":"#ffeb7c","reviewer_color":"#ffeb7c","review1":"I had the confidence not to wear a pad, first time in ages","reviewer1":"Nate S.","review2":"I had the confidence not to wear a pad, first time in ages","reviewer2":"Nate S."}}},"block_order":["1650547625d1ae993e-0","1650547625d1ae993e-1","4aaef842-bc38-49ea-9af8-9f47aa59d7e1","a0ae1f3e-fe60-49b8-98a9-9abdce5dcf2b"],"settings":{"use_bg":true,"use_half_mobile":false,"full_width":true,"no_image":false,"bg":"#ffffff","bg_back":"#ffffff","bg_secondary":"#003836","image":"shopify:\/\/shop_images\/PP12.jpg","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":56,"padding_bottom":52,"margin_top":0,"margin_bottom":0,"padding_top_mobile":12,"padding_bottom_mobile":64,"margin_top_mobile":0,"margin_bottom_mobile":0}},"165229989755881132":{"type":"apps","blocks":{"462bb41d-7ffc-400e-8e4c-b56832760211":{"type":"shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29","disabled":true,"settings":{"product":"{{product}}","widget_type":"reviews_widget"}}},"block_order":["462bb41d-7ffc-400e-8e4c-b56832760211"],"settings":{"include_margins":true}},"1650546352985d0b9a":{"type":"section-icon-slider","blocks":{"e01bf1ee-45f1-49ca-9bf5-776d03cbead9":{"type":"icon","settings":{"image":"shopify:\/\/shop_images\/icon-sup.png","title":"Choose Your Flavor","para":"We've crafted 3 snack worthy flavors, Mint Chocolate, Vanilla Cake & Cinnamon Roll. Flavors that you can drink, eat, bake and mix your favorite recipes with!"}},"8da69e16-ad25-4d74-ad96-9a29103eb2d5":{"type":"icon","settings":{"image":"shopify:\/\/shop_images\/icon.png","title":"Pair With A Superfood","para":"Supercharge your plant protein with 60+ ingredients in our Greens, Yellows & Reds. 1 scoop of each and you're on your way to superhero status!"}},"06728712-3469-45d2-b7dd-641fa87dce73":{"type":"icon","settings":{"image":"shopify:\/\/shop_images\/icon-sch.png","title":"Schedule Your Orders","para":"When do you want to get these? Every 2 weeks or every 8 weeks, or anything in between?! You have 2-8 week options to make sure you're getting what you want when you want it."}}},"block_order":["e01bf1ee-45f1-49ca-9bf5-776d03cbead9","8da69e16-ad25-4d74-ad96-9a29103eb2d5","06728712-3469-45d2-b7dd-641fa87dce73"],"settings":{"bg":"#ffffff","subheading_color":"#003937","heading_color":"#003937","text_color":"#003937","block_heading_color":"#003937","block_text_color":"#003937","container-large":false,"use_gradient":false,"bg-1":"#fff7cc","bg-2":"#ffffff","heading":"Action-Packed Vegan Protein","subheading":"BUILT TO BE STRONGER","heading_size":"h1","text":"<p>23g of protein per serving, probiotics, fiber, digestive enzymes, and (last, but certainly not least) extra Leucine, the amino acid that helps bind the rest of the amino acids to make our protein strong(er) than the rest!<\/p>","text_style":"background-1","padding_top":92,"padding_bottom":0,"margin_top":0,"margin_bottom":0,"padding_top_mobile":100,"padding_bottom_mobile":60,"margin_top_mobile":0,"margin_bottom_mobile":0}},"1650803502ad4940a7":{"type":"image-with-text","blocks":{"1650803502853d0eed-0":{"type":"heading","settings":{"heading_color":"#ffffff","heading":"Build Your Own Box of Protein & Superfoods!","heading_size":"h1"}},"1650803502853d0eed-1":{"type":"text","settings":{"text_color":"#ffffff","text":"Customize your order by choosing each product you want in your box. Mix and match your protien types and flavors and pair it with your superfood flavor and blender bottle!","text_style":"body"}},"1650803502853d0eed-2":{"type":"button","settings":{"button_style":"secondary","button_label":"Build Your Box","button_link":"shopify:\/\/pages\/shop"}}},"block_order":["1650803502853d0eed-0","1650803502853d0eed-1","1650803502853d0eed-2"],"settings":{"use_bg":true,"use_half_mobile":true,"full_width":false,"no_image":true,"bg":"#00403e","bg_back":"#ffffff","bg_secondary":"#fff7cc","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"center","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"center","padding_top":0,"padding_bottom":16,"margin_top":0,"margin_bottom":0,"padding_top_mobile":0,"padding_bottom_mobile":0,"margin_top_mobile":0,"margin_bottom_mobile":0}},"1650641669ecb09b67":{"type":"section-recommended-products","blocks":{"b13302c2-2ffe-4994-b731-747ee089f6ca":{"type":"product","settings":{"product":"clear-whey-protein"}},"60f9cfa7-0201-4340-bd93-e7b044a22a59":{"type":"product","settings":{"product":"superfood-blends"}},"b78b0b47-3b99-4496-b3dc-f2275386ba2e":{"type":"product","settings":{"product":"shaker-bottle"}},"dd96e3d6-d005-427b-a7eb-a368f480af21":{"type":"product","disabled":true,"settings":{"product":"clear-whey-protein"}}},"block_order":["b13302c2-2ffe-4994-b731-747ee089f6ca","60f9cfa7-0201-4340-bd93-e7b044a22a59","b78b0b47-3b99-4496-b3dc-f2275386ba2e","dd96e3d6-d005-427b-a7eb-a368f480af21"],"settings":{"use_custom":true,"container-large":false,"slider_mobile":true,"use_gradient":false,"bg-1":"#ffffff","bg-2":"#ffffff","subheading":"Recommended","heading":"People also bought","heading_style":"only_heading","heading_size":"h1","text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","button_label":"Button label","button_link":"","button_style_secondary":false,"text_style":"background-1","button_style":"primary","padding_top":64,"padding_bottom":64,"margin_top":0,"margin_bottom":0,"padding_top_mobile":84,"padding_bottom_mobile":48,"margin_top_mobile":0,"margin_bottom_mobile":0}},"1650792511d70ac2eb":{"type":"collapsible-content","disabled":true,"blocks":{"16507925116bf9c065-0":{"type":"collapsible_row","settings":{"heading":"Question 1","icon":"none","row_content":"<p>Answer 1<\/p>","page":""}},"16507925116bf9c065-1":{"type":"collapsible_row","settings":{"heading":"Question 2","icon":"none","row_content":"<p>Answer 2<\/p>","page":""}},"16507925116bf9c065-2":{"type":"collapsible_row","settings":{"heading":"Question 3","icon":"none","row_content":"<p>Answer 3<\/p>","page":""}},"16507925116bf9c065-3":{"type":"collapsible_row","settings":{"heading":"Question 4","icon":"none","row_content":"<p>Answer 4<\/p>","page":""}}},"block_order":["16507925116bf9c065-0","16507925116bf9c065-1","16507925116bf9c065-2","16507925116bf9c065-3"],"settings":{"caption":"","heading":"Plant Protein FAQ","heading_size":"h1","heading_alignment":"center","layout":"none","color_scheme":"background-1","container_color_scheme":"background-2","open_first_collapsible_row":false,"image_ratio":"adapt","desktop_layout":"image_second","padding_top":84,"padding_bottom":92}},"zp-product-footer-content":{"type":"product-footer-content-zipifypages","settings":{}}},"order":["zp-product-header-content","main","product-recommendations","1650546141ed30d512","1650787211c529422b","1650718237dcaacecb","16474565353c0f5879","16508033723f1bf783","16505476253e029045","165229989755881132","1650546352985d0b9a","1650803502ad4940a7","1650641669ecb09b67","1650792511d70ac2eb","zp-product-footer-content"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "809acdcc-330d-407b-894d-ef0c0d60611c": {
+          "type": "shopify://apps/okendo-product-reviews-ugc/blocks/star-rating/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "disabled": true,
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "8e54bd74-a7e9-4f8a-a1d8-655836f4c70f": {
+          "type": "subscription",
+          "disabled": true,
+          "settings": {
+            "sub_text": "",
+            "sub_link_text": "",
+            "sub_link": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "31813356-c48a-43b8-b578-9a73cb674c7f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Product Details",
+            "icon": "plant",
+            "content": "<p>We’ve Got the Goods On Easier Nutrition: We all need cushion time to evaluate new things. That’s why Plant Goods gives you a full 30-day promise to absorb, notice, and appreciate the game-changing benefits of our complete plant protein. If you ever have any questions, don’t hesitate to get in touch. Crafted to not be annoyingly complicated, depend on us to streamline your nutrition with everyday ingredients that'll invigorate your taste buds and body.</p>",
+            "page": ""
+          }
+        },
+        "b67b9fc1-2994-4ed3-8251-7bccd96e4690": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingredients",
+            "icon": "clipboard",
+            "content": "<p>Protein Blend (Organic Pea Protein Isolate, Organic Rice Protein Isolate, Pumpkin Protein), Natural Flavors, Organic Tapioca Fiber, Organic Oat Bran, <strong>L-Leucine</strong>, Xylitol, Guar Gum, Organic Inulin, Organic B-Vitamin Complex (from Organic Quinoa Sprouts), Pink MUSCLE REPAIR Himalayan Sea Salt, Organic Acerola, Reb A (Stevia), Vitamin D3 (Cholecalciferol).</p>",
+            "page": ""
+          }
+        },
+        "9d0cda0b-2a5b-427f-b843-4a22417e26fd": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Suggested Use",
+            "icon": "bottle",
+            "content": "<p>Put 1 scoop in your Plant Goods Shaker Bottle with 8-12 ounces of water and shake well! Drink 1-2 shakes a day for optimial results.  Add Superfood for maximum results!</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "809acdcc-330d-407b-894d-ef0c0d60611c",
+        "price",
+        "description",
+        "variant_picker",
+        "8e54bd74-a7e9-4f8a-a1d8-655836f4c70f",
+        "quantity_selector",
+        "buy_buttons",
+        "share",
+        "31813356-c48a-43b8-b578-9a73cb674c7f",
+        "b67b9fc1-2994-4ed3-8251-7bccd96e4690",
+        "9d0cda0b-2a5b-427f-b843-4a22417e26fd"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "gallery_layout": "thumbnail",
+        "media_size": "medium",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 48,
+        "padding_bottom": 80
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h1",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1650546141ed30d512": {
+      "type": "section-press",
+      "blocks": {
+        "ffddea73-6553-4e4b-809b-e740dc5c19ee": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_233_1aa97228-b116-4006-89fe-1a56ae256954.png",
+            "claim": "Free Shipping on Order Above $99"
+          }
+        },
+        "987f686b-ac7b-4423-9127-5bc3b4c61ef9": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_234_b58c4525-4b06-4150-b3cd-0a2819955844.png",
+            "claim": "Secured Payment & Checkout"
+          }
+        },
+        "eeb21f66-8a30-4198-abb8-7dc082e57015": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_235_a7e21ff5-77c3-49e9-a451-fd614566ba9c.png",
+            "claim": "30 Day Money Back Guarantee"
+          }
+        },
+        "ada3915d-a521-4ec0-9c39-9c026ead59d5": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_236_ddc5112c-377d-464b-85cf-76a7dfa3ef3d.png",
+            "claim": "Easy Returns"
+          }
+        }
+      },
+      "block_order": [
+        "ffddea73-6553-4e4b-809b-e740dc5c19ee",
+        "987f686b-ac7b-4423-9127-5bc3b4c61ef9",
+        "eeb21f66-8a30-4198-abb8-7dc082e57015",
+        "ada3915d-a521-4ec0-9c39-9c026ead59d5"
+      ],
+      "settings": {
+        "bg": "#ffffff",
+        "border_color": "#002e2d",
+        "text_color": "#00403e",
+        "section_type": "claims",
+        "title": "As Seen on",
+        "padding_top": 8,
+        "padding_bottom": 8,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 12,
+        "padding_bottom_mobile": 12,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "1650787211c529422b": {
+      "type": "multicolumn",
+      "blocks": {
+        "2e3f5c99-9f01-4482-880d-d42f843a4e5c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_102.png",
+            "title": "Vegan<br>Protein",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1650787211be928b2f-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_98.png",
+            "title": "5 Grams<br>Fiber",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f3213601-1ed0-44b8-ac6d-382bd3cedfff": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_101.png",
+            "title": "300% DV<br>Vitamin D3",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1650787211be928b2f-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_99.png",
+            "title": "2 Billion<br>Probiotics",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "af7aa0bf-ccc8-4791-bd55-a74fe204377a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_98.png",
+            "title": "Organically<br>\nSourced",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1650787211be928b2f-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_100.png",
+            "title": "4 Grams<br>Leucine",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "2e3f5c99-9f01-4482-880d-d42f843a4e5c",
+        "1650787211be928b2f-0",
+        "f3213601-1ed0-44b8-ac6d-382bd3cedfff",
+        "1650787211be928b2f-1",
+        "af7aa0bf-ccc8-4791-bd55-a74fe204377a",
+        "1650787211be928b2f-2"
+      ],
+      "settings": {
+        "bg-1": "#ffffff",
+        "subheading_color": "#222222",
+        "title_color": "#00403e",
+        "text_color": "#00403e",
+        "title": "",
+        "heading_style": "heading_with_text",
+        "heading_size": "h1",
+        "card_heading": "h3",
+        "subheading": "Subheading text",
+        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+        "image_width": 25,
+        "image_width_mob": 35,
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 44
+      }
+    },
+    "1650718237dcaacecb": {
+      "type": "multicolumn",
+      "blocks": {
+        "165071823782110262-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/PP9.jpg",
+            "title": "Living The Plant Life",
+            "text": "<p>You don't have to be vegan to love the taste and results from plant based protein. Having options is best.  We've built the most complete protein formula on the market and we're here to prove it to you.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "165071823782110262-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/PP11.jpg",
+            "title": "Full-Stack Amino Profile",
+            "text": "<p>A big problem with plant based proteins is the lack of amino acids.  We have made sure to solve this problem by formulating a full amino stack in our product AND adding extra luecine to ensure the most effective product.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165071823782110262-0",
+        "165071823782110262-1"
+      ],
+      "settings": {
+        "bg-1": "#ffffff",
+        "subheading_color": "#00403e",
+        "title_color": "#00403e",
+        "text_color": "#00403e",
+        "title": "Complete Aminos, Vitamin D3, Probiotics & A Great Taste",
+        "heading_style": "heading_with_text",
+        "heading_size": "h1",
+        "card_heading": "h2",
+        "subheading": "whats missing in plant protien?",
+        "text": "<p>So, we fixed that.  It wasn't cheap, but we did it. You can now get the results you need from your plant protein. Organic protiens and a full flavor will have you wanting more!</p>",
+        "image_width": 100,
+        "image_width_mob": 100,
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 8
+      }
+    },
+    "16474565353c0f5879": {
+      "type": "image-with-text",
+      "blocks": {
+        "261523db-8c0f-4bf8-8c64-3044348d9771": {
+          "type": "subheading",
+          "settings": {
+            "subheading_color": "#222222",
+            "subheading": "CLEAN LABEL PROTEIN"
+          }
+        },
+        "1647456535adf22661-0": {
+          "type": "heading",
+          "settings": {
+            "heading_color": "#00403e",
+            "heading": "Complete With Replenishing Ingredients",
+            "heading_size": "h1"
+          }
+        },
+        "1647456535adf22661-1": {
+          "type": "text",
+          "settings": {
+            "text_color": "#222222",
+            "text": "<p>Our plant protein contains\nwholesome ingredients your body needs to thrive. Made to restore your muscles, energy, and gut, our dairy, soy and\ngluten-free protein is a revolutionary supplement for your overall health. We're eliminating the complication so you\ncan focus on your body's restoration.</p>\n\n<ul role=\"list\" class=\"tick secondary\">\n  <li>Greens include spirulina, apple, spinach, wheat grass, & bell peppers</li>\n  <li>Reds like acai, cherry, tomato, raspberry, & goji</li>\n  <li> Yellow includes our Super Shroom Blend with shitake, reishi, Lion’s Mane, cordyceps, & more</li>\n</ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "261523db-8c0f-4bf8-8c64-3044348d9771",
+        "1647456535adf22661-0",
+        "1647456535adf22661-1"
+      ],
+      "settings": {
+        "use_bg": true,
+        "use_half_mobile": false,
+        "full_width": true,
+        "no_image": false,
+        "bg": "#ffffff",
+        "bg_back": "#ffffff",
+        "bg_secondary": "#ffffff",
+        "image": "shopify://shop_images/PP7.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 84,
+        "padding_bottom": 84,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 8,
+        "padding_bottom_mobile": 48,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "16508033723f1bf783": {
+      "type": "section-reviews",
+      "blocks": {
+        "119a96e5-8157-4bab-ac6c-b7bcfb0105d2": {
+          "type": "review",
+          "settings": {
+            "review": "\"Plant Goods is one of the more palatable plant based protein shakes that I have come across, which is surprising due to the high levels of vitamins and minerals. I tried the Mint Chocolate version and found the mixture to be creamy and smooth when blended with Almond Milk.\"",
+            "review_name": "Mint Chocolate Customer"
+          }
+        },
+        "e44361f7-94ab-4106-81cf-443ec7515f61": {
+          "type": "review",
+          "settings": {
+            "review": "\"Top quality ingredients, mixes easily, non grainy and tasts great. Just received and tried the cinnamon roll flavor and it did not disappoint. Have tried many plant based protein powders and found some good ones. This brand is the best so far.\"",
+            "review_name": "Cinnamon Roll Customer"
+          }
+        },
+        "2a472acb-e22f-4069-9533-92921c255956": {
+          "type": "review",
+          "settings": {
+            "review": "\"Plant Goods knew what they were doing when they created this protein shake! Not only is the flavor fantastic, but the texture is smooth as well. The shakes mix easily with just water and also blend well with my favorite frozen fruit. The Vanilla Cake flavor is my all-time favorite! Definitely the best protein I have ever tasted-and I’ve been drinking protein shakes for years!\"",
+            "review_name": "Vanilla Cake Customer"
+          }
+        },
+        "7f5667f9-b75d-4477-9069-004a5018ba6e": {
+          "type": "review",
+          "settings": {
+            "review": "\"Definitely a easy to blend protein, and going a little lower on the amount of water created a great consistency and well tasting cinnamon roll flavor that surpasses my old salted caramel I used to eat.\"",
+            "review_name": "Cinnamon Roll Customer"
+          }
+        },
+        "23f19997-3abc-4905-b605-8ea15f0459df": {
+          "type": "review",
+          "settings": {
+            "review": "\"The real strength of this mix is the nutrition. It's almost a meal replacement with so many vitamins—over 40% of many essentials and billions of probiotics. It also has 6g of fiber and they don't list sugar, so I'm assuming there is none (they use stevia to sweeten as well).\"",
+            "review_name": "Mint chocolate customer"
+          }
+        }
+      },
+      "block_order": [
+        "119a96e5-8157-4bab-ac6c-b7bcfb0105d2",
+        "e44361f7-94ab-4106-81cf-443ec7515f61",
+        "2a472acb-e22f-4069-9533-92921c255956",
+        "7f5667f9-b75d-4477-9069-004a5018ba6e",
+        "23f19997-3abc-4905-b605-8ea15f0459df"
+      ],
+      "settings": {
+        "container-large": true,
+        "use_gradient": false,
+        "bg-1": "#003836",
+        "bg-2": "#00403e",
+        "subheading_color": "#ffeb7c",
+        "heading_color": "#ffffff",
+        "text_color": "#ffffff",
+        "rating_color": "#b15126",
+        "review_color": "#000000",
+        "review_name_color": "#00403e",
+        "subheading": "real people, real reviews",
+        "heading": "Don't Take Our Word For It",
+        "heading_style": "heading_with_text",
+        "heading_size": "h1",
+        "text": "<p>Plant Based Protein gets a bad rep for various reasons. It comes down to the formula and taste. We feel we got it right on both. People around the country are speaking up and here is what they say...</p>",
+        "button_label": "Button label",
+        "button_link": "",
+        "button_style_secondary": false,
+        "text_style": "background-1",
+        "button_style": "primary",
+        "padding_top": 68,
+        "padding_bottom": 76,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 76,
+        "padding_bottom_mobile": 84,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "16505476253e029045": {
+      "type": "image-with-text",
+      "blocks": {
+        "1650547625d1ae993e-0": {
+          "type": "heading",
+          "settings": {
+            "heading_color": "#00403e",
+            "heading": "Completed Formula & Bursting With Decadent Dessert Flavors!",
+            "heading_size": "h1"
+          }
+        },
+        "1650547625d1ae993e-1": {
+          "type": "text",
+          "settings": {
+            "text_color": "#00403e",
+            "text": "Committed to changing the nutrition industry with all-in-one, empowering products, our plant protein contains\nwholesome ingredients your body needs to thrive. Made to restore your muscles, energy, and gut, our dairy, soy and\ngluten-free protein is a revolutionary supplement for your overall health. We're eliminating the complication so you\ncan focus on your body's restoration.\n<ul role=\"list\" class=\"tick\">\n  <li>Save more time in the morning.</li>\n  <li>Create more natural energy without stimulants </li>\n  <li> Watch your hair, skin and nails strengthen</li>\n</ul>",
+            "text_style": "body"
+          }
+        },
+        "4aaef842-bc38-49ea-9af8-9f47aa59d7e1": {
+          "type": "info-blocks",
+          "disabled": true,
+          "settings": {
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffeb7c",
+            "heading1": "25%",
+            "subheading1": "Protein",
+            "heading2": "12%",
+            "subheading2": "Carbs",
+            "heading3": "0.1%",
+            "subheading3": "Sugar",
+            "heading4": "",
+            "subheading4": ""
+          }
+        },
+        "a0ae1f3e-fe60-49b8-98a9-9abdce5dcf2b": {
+          "type": "reviews",
+          "disabled": true,
+          "settings": {
+            "text_color": "#ffffff",
+            "border_color": "#ffffff",
+            "rating_color": "#ffeb7c",
+            "reviewer_color": "#ffeb7c",
+            "review1": "I had the confidence not to wear a pad, first time in ages",
+            "reviewer1": "Nate S.",
+            "review2": "I had the confidence not to wear a pad, first time in ages",
+            "reviewer2": "Nate S."
+          }
+        }
+      },
+      "block_order": [
+        "1650547625d1ae993e-0",
+        "1650547625d1ae993e-1",
+        "4aaef842-bc38-49ea-9af8-9f47aa59d7e1",
+        "a0ae1f3e-fe60-49b8-98a9-9abdce5dcf2b"
+      ],
+      "settings": {
+        "use_bg": true,
+        "use_half_mobile": false,
+        "full_width": true,
+        "no_image": false,
+        "bg": "#ffffff",
+        "bg_back": "#ffffff",
+        "bg_secondary": "#003836",
+        "image": "shopify://shop_images/PP12.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 56,
+        "padding_bottom": 52,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 12,
+        "padding_bottom_mobile": 64,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "165229989755881132": {
+      "type": "apps",
+      "blocks": {
+        "462bb41d-7ffc-400e-8e4c-b56832760211": {
+          "type": "shopify://apps/okendo-product-reviews-ugc/blocks/reviews-widget/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "disabled": true,
+          "settings": {
+            "product": "{{product}}",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "462bb41d-7ffc-400e-8e4c-b56832760211"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1650546352985d0b9a": {
+      "type": "section-icon-slider",
+      "blocks": {
+        "e01bf1ee-45f1-49ca-9bf5-776d03cbead9": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/icon-sup.png",
+            "title": "Choose Your Flavor",
+            "para": "We've crafted 3 snack worthy flavors, Mint Chocolate, Vanilla Cake & Cinnamon Roll. Flavors that you can drink, eat, bake and mix your favorite recipes with!"
+          }
+        },
+        "8da69e16-ad25-4d74-ad96-9a29103eb2d5": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/icon.png",
+            "title": "Pair With A Superfood",
+            "para": "Supercharge your plant protein with 60+ ingredients in our Greens, Yellows & Reds. 1 scoop of each and you're on your way to superhero status!"
+          }
+        },
+        "06728712-3469-45d2-b7dd-641fa87dce73": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/icon-sch.png",
+            "title": "Schedule Your Orders",
+            "para": "When do you want to get these? Every 2 weeks or every 8 weeks, or anything in between?! You have 2-8 week options to make sure you're getting what you want when you want it."
+          }
+        }
+      },
+      "block_order": [
+        "e01bf1ee-45f1-49ca-9bf5-776d03cbead9",
+        "8da69e16-ad25-4d74-ad96-9a29103eb2d5",
+        "06728712-3469-45d2-b7dd-641fa87dce73"
+      ],
+      "settings": {
+        "bg": "#ffffff",
+        "subheading_color": "#003937",
+        "heading_color": "#003937",
+        "text_color": "#003937",
+        "block_heading_color": "#003937",
+        "block_text_color": "#003937",
+        "container-large": false,
+        "use_gradient": false,
+        "bg-1": "#fff7cc",
+        "bg-2": "#ffffff",
+        "heading": "Action-Packed Vegan Protein",
+        "subheading": "BUILT TO BE STRONGER",
+        "heading_size": "h1",
+        "text": "<p>23g of protein per serving, probiotics, fiber, digestive enzymes, and (last, but certainly not least) extra Leucine, the amino acid that helps bind the rest of the amino acids to make our protein strong(er) than the rest!</p>",
+        "text_style": "background-1",
+        "padding_top": 92,
+        "padding_bottom": 0,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 100,
+        "padding_bottom_mobile": 60,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "1650803502ad4940a7": {
+      "type": "image-with-text",
+      "blocks": {
+        "1650803502853d0eed-0": {
+          "type": "heading",
+          "settings": {
+            "heading_color": "#ffffff",
+            "heading": "Build Your Own Box of Protein & Superfoods!",
+            "heading_size": "h1"
+          }
+        },
+        "1650803502853d0eed-1": {
+          "type": "text",
+          "settings": {
+            "text_color": "#ffffff",
+            "text": "Customize your order by choosing each product you want in your box. Mix and match your protien types and flavors and pair it with your superfood flavor and blender bottle!",
+            "text_style": "body"
+          }
+        },
+        "1650803502853d0eed-2": {
+          "type": "button",
+          "settings": {
+            "button_style": "secondary",
+            "button_label": "Build Your Box",
+            "button_link": "shopify://pages/shop"
+          }
+        }
+      },
+      "block_order": [
+        "1650803502853d0eed-0",
+        "1650803502853d0eed-1",
+        "1650803502853d0eed-2"
+      ],
+      "settings": {
+        "use_bg": true,
+        "use_half_mobile": true,
+        "full_width": false,
+        "no_image": true,
+        "bg": "#00403e",
+        "bg_back": "#ffffff",
+        "bg_secondary": "#fff7cc",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 16,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 0,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "1650641669ecb09b67": {
+      "type": "section-recommended-products",
+      "blocks": {
+        "b13302c2-2ffe-4994-b731-747ee089f6ca": {
+          "type": "product",
+          "settings": {
+            "product": "clear-whey-protein"
+          }
+        },
+        "60f9cfa7-0201-4340-bd93-e7b044a22a59": {
+          "type": "product",
+          "settings": {
+            "product": "superfood-blends"
+          }
+        },
+        "b78b0b47-3b99-4496-b3dc-f2275386ba2e": {
+          "type": "product",
+          "settings": {
+            "product": "shaker-bottle"
+          }
+        },
+        "dd96e3d6-d005-427b-a7eb-a368f480af21": {
+          "type": "product",
+          "disabled": true,
+          "settings": {
+            "product": "clear-whey-protein"
+          }
+        }
+      },
+      "block_order": [
+        "b13302c2-2ffe-4994-b731-747ee089f6ca",
+        "60f9cfa7-0201-4340-bd93-e7b044a22a59",
+        "b78b0b47-3b99-4496-b3dc-f2275386ba2e",
+        "dd96e3d6-d005-427b-a7eb-a368f480af21"
+      ],
+      "settings": {
+        "use_custom": true,
+        "container-large": false,
+        "slider_mobile": true,
+        "use_gradient": false,
+        "bg-1": "#ffffff",
+        "bg-2": "#ffffff",
+        "subheading": "Recommended",
+        "heading": "People also bought",
+        "heading_style": "only_heading",
+        "heading_size": "h1",
+        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+        "button_label": "Button label",
+        "button_link": "",
+        "button_style_secondary": false,
+        "text_style": "background-1",
+        "button_style": "primary",
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 84,
+        "padding_bottom_mobile": 48,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "1650792511d70ac2eb": {
+      "type": "collapsible-content",
+      "disabled": true,
+      "blocks": {
+        "16507925116bf9c065-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Question 1",
+            "icon": "none",
+            "row_content": "<p>Answer 1</p>",
+            "page": ""
+          }
+        },
+        "16507925116bf9c065-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Question 2",
+            "icon": "none",
+            "row_content": "<p>Answer 2</p>",
+            "page": ""
+          }
+        },
+        "16507925116bf9c065-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Question 3",
+            "icon": "none",
+            "row_content": "<p>Answer 3</p>",
+            "page": ""
+          }
+        },
+        "16507925116bf9c065-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Question 4",
+            "icon": "none",
+            "row_content": "<p>Answer 4</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16507925116bf9c065-0",
+        "16507925116bf9c065-1",
+        "16507925116bf9c065-2",
+        "16507925116bf9c065-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Plant Protein FAQ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 84,
+        "padding_bottom": 92
+      }
+    },
+    "zp-product-footer-content": {
+      "type": "product-footer-content-zipifypages",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "1650546141ed30d512",
+    "1650787211c529422b",
+    "1650718237dcaacecb",
+    "16474565353c0f5879",
+    "16508033723f1bf783",
+    "16505476253e029045",
+    "165229989755881132",
+    "1650546352985d0b9a",
+    "1650803502ad4940a7",
+    "1650641669ecb09b67",
+    "1650792511d70ac2eb",
+    "zp-product-footer-content"
+  ]
+}

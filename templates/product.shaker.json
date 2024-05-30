@@ -1,1 +1,468 @@
-{"sections":{"zp-product-header-content":{"type":"product-header-content-zipifypages","settings":{}},"main":{"type":"main-product","blocks":{"vendor":{"type":"text","disabled":true,"settings":{"text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{}},"price":{"type":"price","settings":{}},"description":{"type":"description","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button"}},"8e54bd74-a7e9-4f8a-a1d8-655836f4c70f":{"type":"subscription","settings":{"sub_text":"","sub_link_text":"","sub_link":""}},"quantity_selector":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true}},"share":{"type":"share","disabled":true,"settings":{"share_label":"Share"}},"31813356-c48a-43b8-b578-9a73cb674c7f":{"type":"collapsible_tab","settings":{"heading":"Product Details","icon":"none","content":"","page":""}},"b67b9fc1-2994-4ed3-8251-7bccd96e4690":{"type":"collapsible_tab","settings":{"heading":"Ingredients","icon":"none","content":"","page":""}},"9d0cda0b-2a5b-427f-b843-4a22417e26fd":{"type":"collapsible_tab","settings":{"heading":"Suggested Use","icon":"none","content":"","page":""}}},"block_order":["vendor","title","price","description","variant_picker","8e54bd74-a7e9-4f8a-a1d8-655836f4c70f","quantity_selector","buy_buttons","share","31813356-c48a-43b8-b578-9a73cb674c7f","b67b9fc1-2994-4ed3-8251-7bccd96e4690","9d0cda0b-2a5b-427f-b843-4a22417e26fd"],"settings":{"enable_sticky_info":true,"gallery_layout":"thumbnail","media_size":"medium","mobile_thumbnails":"show","hide_variants":true,"enable_video_looping":false,"padding_top":48,"padding_bottom":80}},"product-recommendations":{"type":"product-recommendations","disabled":true,"settings":{"heading":"You may also like","heading_size":"h1","columns_desktop":4,"color_scheme":"background-1","image_ratio":"adapt","show_secondary_image":false,"show_vendor":false,"show_rating":false,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"1650546141ed30d512":{"type":"section-press","blocks":{"ffddea73-6553-4e4b-809b-e740dc5c19ee":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_233_1aa97228-b116-4006-89fe-1a56ae256954.png","claim":"Free Shipping on Order Above $99"}},"987f686b-ac7b-4423-9127-5bc3b4c61ef9":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_234_b58c4525-4b06-4150-b3cd-0a2819955844.png","claim":"Secured Payment & Checkout"}},"eeb21f66-8a30-4198-abb8-7dc082e57015":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_235_a7e21ff5-77c3-49e9-a451-fd614566ba9c.png","claim":"30 Day Money Back Guarantee"}},"ada3915d-a521-4ec0-9c39-9c026ead59d5":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_236_ddc5112c-377d-464b-85cf-76a7dfa3ef3d.png","claim":"Easy Returns"}}},"block_order":["ffddea73-6553-4e4b-809b-e740dc5c19ee","987f686b-ac7b-4423-9127-5bc3b4c61ef9","eeb21f66-8a30-4198-abb8-7dc082e57015","ada3915d-a521-4ec0-9c39-9c026ead59d5"],"settings":{"bg":"#ffffff","border_color":"#003937","text_color":"#003937","section_type":"claims","title":"As Seen on","padding_top":12,"padding_bottom":12,"margin_top":0,"margin_bottom":0,"padding_top_mobile":12,"padding_bottom_mobile":12,"margin_top_mobile":0,"margin_bottom_mobile":0}},"1650546352985d0b9a":{"type":"section-icon-slider","disabled":true,"blocks":{"e01bf1ee-45f1-49ca-9bf5-776d03cbead9":{"type":"icon","settings":{"image":"shopify:\/\/shop_images\/icon-sup.png","title":"Choose Your Protein","para":"Share information about your brand with your customers."}},"8da69e16-ad25-4d74-ad96-9a29103eb2d5":{"type":"icon","settings":{"title":"Choose Your Superfood","para":"Share information about your brand with your customers."}},"06728712-3469-45d2-b7dd-641fa87dce73":{"type":"icon","settings":{"title":"Schedule Your Orders","para":"Share information about your brand with your customers."}}},"block_order":["e01bf1ee-45f1-49ca-9bf5-776d03cbead9","8da69e16-ad25-4d74-ad96-9a29103eb2d5","06728712-3469-45d2-b7dd-641fa87dce73"],"settings":{"bg":"#ffffff","subheading_color":"#222222","heading_color":"#222222","text_color":"#222222","block_heading_color":"#222222","block_text_color":"#222222","container-large":false,"use_gradient":false,"bg-1":"#ffffff","bg-2":"#ffffff","heading":"Talk about your brand","subheading":"Subheading text","heading_size":"h1","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>","text_style":"background-1","padding_top":76,"padding_bottom":12,"margin_top":0,"margin_bottom":0,"padding_top_mobile":100,"padding_bottom_mobile":56,"margin_top_mobile":0,"margin_bottom_mobile":0}},"16505476253e029045":{"type":"image-with-text","disabled":true,"blocks":{"1650547625d1ae993e-0":{"type":"heading","settings":{"heading_color":"#ffffff","heading":"Tastes like Juice but with all the benefits of Whey!","heading_size":"h1"}},"1650547625d1ae993e-1":{"type":"text","settings":{"text_color":"#ffffff","text":"Pair text with an image to focus on your chosen product, collection, or blog post.\n<ul role=\"list\" class=\"tick secondary\">\n  <li>24g of protein from organic sources.<\/li>\n  <li>With complete binding amino acid profile<\/li>\n  <li> 6g of fiber & 2 billion CFU of probiotics.<\/li>\n<\/ul>","text_style":"body"}},"4aaef842-bc38-49ea-9af8-9f47aa59d7e1":{"type":"info-blocks","disabled":true,"settings":{"heading_color":"#ffffff","subheading_color":"#ffeb7c","heading1":"25%","subheading1":"Protein","heading2":"12%","subheading2":"Carbs","heading3":"0.1%","subheading3":"Sugar","heading4":"","subheading4":""}},"a0ae1f3e-fe60-49b8-98a9-9abdce5dcf2b":{"type":"reviews","settings":{"text_color":"#ffffff","border_color":"#ffffff","rating_color":"#ffeb7c","reviewer_color":"#ffeb7c","review1":"I had the confidence not to wear a pad, first time in ages","reviewer1":"Nate S.","review2":"I had the confidence not to wear a pad, first time in ages","reviewer2":"Nate S."}}},"block_order":["1650547625d1ae993e-0","1650547625d1ae993e-1","4aaef842-bc38-49ea-9af8-9f47aa59d7e1","a0ae1f3e-fe60-49b8-98a9-9abdce5dcf2b"],"settings":{"use_bg":true,"use_half_mobile":false,"full_width":true,"no_image":false,"bg":"#003937","bg_back":"#ffffff","bg_secondary":"#ffffff","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":56,"padding_bottom":28,"margin_top":0,"margin_bottom":0,"padding_top_mobile":40,"padding_bottom_mobile":48,"margin_top_mobile":0,"margin_bottom_mobile":0}},"16474565353c0f5879":{"type":"image-with-text","disabled":true,"blocks":{"0486b804-2546-46b0-8720-6d5d291fb43d":{"type":"subheading","settings":{"subheading_color":"#00403e","subheading":"More than protein"}},"1647456535adf22661-0":{"type":"heading","settings":{"heading_color":"#00403e","heading":"Tastes like Juice but with all the benefits of  Whey!","heading_size":"h1"}},"1647456535adf22661-1":{"type":"text","settings":{"text_color":"#222222","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>\n\n<ul role=\"list\" class=\"tick\">\n  <li>23g of protein from organic sources.<\/li>\n  <li>With complete binding amino acid profile<\/li>\n  <li> 6g of fiber & 2 billion CFU of probiotics.<\/li>\n<\/ul>","text_style":"body"}}},"block_order":["0486b804-2546-46b0-8720-6d5d291fb43d","1647456535adf22661-0","1647456535adf22661-1"],"settings":{"use_bg":true,"use_half_mobile":false,"full_width":true,"no_image":false,"bg":"#ffffff","bg_back":"#ffffff","bg_secondary":"#ffffff","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"accent-2","mobile_content_alignment":"left","padding_top":84,"padding_bottom":84,"margin_top":0,"margin_bottom":0,"padding_top_mobile":84,"padding_bottom_mobile":68,"margin_top_mobile":0,"margin_bottom_mobile":0}},"165239667117b157d2":{"type":"apps","blocks":{"e1e7e394-79d4-48a8-91be-ee0d22648d1d":{"type":"shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29","settings":{"product":"{{product}}","widget_type":"reviews_widget"}}},"block_order":["e1e7e394-79d4-48a8-91be-ee0d22648d1d"],"settings":{"include_margins":true}},"1650641669ecb09b67":{"type":"section-recommended-products","blocks":{"b13302c2-2ffe-4994-b731-747ee089f6ca":{"type":"product","settings":{"product":"clear-whey-protein"}},"60f9cfa7-0201-4340-bd93-e7b044a22a59":{"type":"product","settings":{"product":"plant-based-protein"}},"b78b0b47-3b99-4496-b3dc-f2275386ba2e":{"type":"product","settings":{"product":"superfood-blends"}}},"block_order":["b13302c2-2ffe-4994-b731-747ee089f6ca","60f9cfa7-0201-4340-bd93-e7b044a22a59","b78b0b47-3b99-4496-b3dc-f2275386ba2e"],"settings":{"use_custom":true,"container-large":false,"slider_mobile":true,"use_gradient":false,"bg-1":"#ffffff","bg-2":"#ffffff","subheading":"Recommended","heading":"People also bought","heading_style":"only_heading","heading_size":"h1","text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","button_label":"Button label","button_link":"","button_style_secondary":false,"text_style":"background-1","button_style":"primary","padding_top":64,"padding_bottom":64,"margin_top":60,"margin_bottom":0,"padding_top_mobile":60,"padding_bottom_mobile":48,"margin_top_mobile":56,"margin_bottom_mobile":0}},"zp-product-footer-content":{"type":"product-footer-content-zipifypages","settings":{}}},"order":["zp-product-header-content","main","product-recommendations","1650546141ed30d512","1650546352985d0b9a","16505476253e029045","16474565353c0f5879","165239667117b157d2","1650641669ecb09b67","zp-product-footer-content"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "8e54bd74-a7e9-4f8a-a1d8-655836f4c70f": {
+          "type": "subscription",
+          "settings": {
+            "sub_text": "",
+            "sub_link_text": "",
+            "sub_link": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "31813356-c48a-43b8-b578-9a73cb674c7f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Product Details",
+            "icon": "none",
+            "content": "",
+            "page": ""
+          }
+        },
+        "b67b9fc1-2994-4ed3-8251-7bccd96e4690": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingredients",
+            "icon": "none",
+            "content": "",
+            "page": ""
+          }
+        },
+        "9d0cda0b-2a5b-427f-b843-4a22417e26fd": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Suggested Use",
+            "icon": "none",
+            "content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "description",
+        "variant_picker",
+        "8e54bd74-a7e9-4f8a-a1d8-655836f4c70f",
+        "quantity_selector",
+        "buy_buttons",
+        "share",
+        "31813356-c48a-43b8-b578-9a73cb674c7f",
+        "b67b9fc1-2994-4ed3-8251-7bccd96e4690",
+        "9d0cda0b-2a5b-427f-b843-4a22417e26fd"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "gallery_layout": "thumbnail",
+        "media_size": "medium",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 48,
+        "padding_bottom": 80
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h1",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1650546141ed30d512": {
+      "type": "section-press",
+      "blocks": {
+        "ffddea73-6553-4e4b-809b-e740dc5c19ee": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_233_1aa97228-b116-4006-89fe-1a56ae256954.png",
+            "claim": "Free Shipping on Order Above $99"
+          }
+        },
+        "987f686b-ac7b-4423-9127-5bc3b4c61ef9": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_234_b58c4525-4b06-4150-b3cd-0a2819955844.png",
+            "claim": "Secured Payment & Checkout"
+          }
+        },
+        "eeb21f66-8a30-4198-abb8-7dc082e57015": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_235_a7e21ff5-77c3-49e9-a451-fd614566ba9c.png",
+            "claim": "30 Day Money Back Guarantee"
+          }
+        },
+        "ada3915d-a521-4ec0-9c39-9c026ead59d5": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_236_ddc5112c-377d-464b-85cf-76a7dfa3ef3d.png",
+            "claim": "Easy Returns"
+          }
+        }
+      },
+      "block_order": [
+        "ffddea73-6553-4e4b-809b-e740dc5c19ee",
+        "987f686b-ac7b-4423-9127-5bc3b4c61ef9",
+        "eeb21f66-8a30-4198-abb8-7dc082e57015",
+        "ada3915d-a521-4ec0-9c39-9c026ead59d5"
+      ],
+      "settings": {
+        "bg": "#ffffff",
+        "border_color": "#003937",
+        "text_color": "#003937",
+        "section_type": "claims",
+        "title": "As Seen on",
+        "padding_top": 12,
+        "padding_bottom": 12,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 12,
+        "padding_bottom_mobile": 12,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "1650546352985d0b9a": {
+      "type": "section-icon-slider",
+      "disabled": true,
+      "blocks": {
+        "e01bf1ee-45f1-49ca-9bf5-776d03cbead9": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/icon-sup.png",
+            "title": "Choose Your Protein",
+            "para": "Share information about your brand with your customers."
+          }
+        },
+        "8da69e16-ad25-4d74-ad96-9a29103eb2d5": {
+          "type": "icon",
+          "settings": {
+            "title": "Choose Your Superfood",
+            "para": "Share information about your brand with your customers."
+          }
+        },
+        "06728712-3469-45d2-b7dd-641fa87dce73": {
+          "type": "icon",
+          "settings": {
+            "title": "Schedule Your Orders",
+            "para": "Share information about your brand with your customers."
+          }
+        }
+      },
+      "block_order": [
+        "e01bf1ee-45f1-49ca-9bf5-776d03cbead9",
+        "8da69e16-ad25-4d74-ad96-9a29103eb2d5",
+        "06728712-3469-45d2-b7dd-641fa87dce73"
+      ],
+      "settings": {
+        "bg": "#ffffff",
+        "subheading_color": "#222222",
+        "heading_color": "#222222",
+        "text_color": "#222222",
+        "block_heading_color": "#222222",
+        "block_text_color": "#222222",
+        "container-large": false,
+        "use_gradient": false,
+        "bg-1": "#ffffff",
+        "bg-2": "#ffffff",
+        "heading": "Talk about your brand",
+        "subheading": "Subheading text",
+        "heading_size": "h1",
+        "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.</p>",
+        "text_style": "background-1",
+        "padding_top": 76,
+        "padding_bottom": 12,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 100,
+        "padding_bottom_mobile": 56,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "16505476253e029045": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1650547625d1ae993e-0": {
+          "type": "heading",
+          "settings": {
+            "heading_color": "#ffffff",
+            "heading": "Tastes like Juice but with all the benefits of Whey!",
+            "heading_size": "h1"
+          }
+        },
+        "1650547625d1ae993e-1": {
+          "type": "text",
+          "settings": {
+            "text_color": "#ffffff",
+            "text": "Pair text with an image to focus on your chosen product, collection, or blog post.\n<ul role=\"list\" class=\"tick secondary\">\n  <li>24g of protein from organic sources.</li>\n  <li>With complete binding amino acid profile</li>\n  <li> 6g of fiber & 2 billion CFU of probiotics.</li>\n</ul>",
+            "text_style": "body"
+          }
+        },
+        "4aaef842-bc38-49ea-9af8-9f47aa59d7e1": {
+          "type": "info-blocks",
+          "disabled": true,
+          "settings": {
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffeb7c",
+            "heading1": "25%",
+            "subheading1": "Protein",
+            "heading2": "12%",
+            "subheading2": "Carbs",
+            "heading3": "0.1%",
+            "subheading3": "Sugar",
+            "heading4": "",
+            "subheading4": ""
+          }
+        },
+        "a0ae1f3e-fe60-49b8-98a9-9abdce5dcf2b": {
+          "type": "reviews",
+          "settings": {
+            "text_color": "#ffffff",
+            "border_color": "#ffffff",
+            "rating_color": "#ffeb7c",
+            "reviewer_color": "#ffeb7c",
+            "review1": "I had the confidence not to wear a pad, first time in ages",
+            "reviewer1": "Nate S.",
+            "review2": "I had the confidence not to wear a pad, first time in ages",
+            "reviewer2": "Nate S."
+          }
+        }
+      },
+      "block_order": [
+        "1650547625d1ae993e-0",
+        "1650547625d1ae993e-1",
+        "4aaef842-bc38-49ea-9af8-9f47aa59d7e1",
+        "a0ae1f3e-fe60-49b8-98a9-9abdce5dcf2b"
+      ],
+      "settings": {
+        "use_bg": true,
+        "use_half_mobile": false,
+        "full_width": true,
+        "no_image": false,
+        "bg": "#003937",
+        "bg_back": "#ffffff",
+        "bg_secondary": "#ffffff",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 56,
+        "padding_bottom": 28,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 40,
+        "padding_bottom_mobile": 48,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "16474565353c0f5879": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "0486b804-2546-46b0-8720-6d5d291fb43d": {
+          "type": "subheading",
+          "settings": {
+            "subheading_color": "#00403e",
+            "subheading": "More than protein"
+          }
+        },
+        "1647456535adf22661-0": {
+          "type": "heading",
+          "settings": {
+            "heading_color": "#00403e",
+            "heading": "Tastes like Juice but with all the benefits of  Whey!",
+            "heading_size": "h1"
+          }
+        },
+        "1647456535adf22661-1": {
+          "type": "text",
+          "settings": {
+            "text_color": "#222222",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>\n\n<ul role=\"list\" class=\"tick\">\n  <li>23g of protein from organic sources.</li>\n  <li>With complete binding amino acid profile</li>\n  <li> 6g of fiber & 2 billion CFU of probiotics.</li>\n</ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "0486b804-2546-46b0-8720-6d5d291fb43d",
+        "1647456535adf22661-0",
+        "1647456535adf22661-1"
+      ],
+      "settings": {
+        "use_bg": true,
+        "use_half_mobile": false,
+        "full_width": true,
+        "no_image": false,
+        "bg": "#ffffff",
+        "bg_back": "#ffffff",
+        "bg_secondary": "#ffffff",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 84,
+        "padding_bottom": 84,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 84,
+        "padding_bottom_mobile": 68,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "165239667117b157d2": {
+      "type": "apps",
+      "blocks": {
+        "e1e7e394-79d4-48a8-91be-ee0d22648d1d": {
+          "type": "shopify://apps/okendo-product-reviews-ugc/blocks/reviews-widget/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "e1e7e394-79d4-48a8-91be-ee0d22648d1d"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1650641669ecb09b67": {
+      "type": "section-recommended-products",
+      "blocks": {
+        "b13302c2-2ffe-4994-b731-747ee089f6ca": {
+          "type": "product",
+          "settings": {
+            "product": "clear-whey-protein"
+          }
+        },
+        "60f9cfa7-0201-4340-bd93-e7b044a22a59": {
+          "type": "product",
+          "settings": {
+            "product": "plant-based-protein"
+          }
+        },
+        "b78b0b47-3b99-4496-b3dc-f2275386ba2e": {
+          "type": "product",
+          "settings": {
+            "product": "superfood-blends"
+          }
+        }
+      },
+      "block_order": [
+        "b13302c2-2ffe-4994-b731-747ee089f6ca",
+        "60f9cfa7-0201-4340-bd93-e7b044a22a59",
+        "b78b0b47-3b99-4496-b3dc-f2275386ba2e"
+      ],
+      "settings": {
+        "use_custom": true,
+        "container-large": false,
+        "slider_mobile": true,
+        "use_gradient": false,
+        "bg-1": "#ffffff",
+        "bg-2": "#ffffff",
+        "subheading": "Recommended",
+        "heading": "People also bought",
+        "heading_style": "only_heading",
+        "heading_size": "h1",
+        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+        "button_label": "Button label",
+        "button_link": "",
+        "button_style_secondary": false,
+        "text_style": "background-1",
+        "button_style": "primary",
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "margin_top": 60,
+        "margin_bottom": 0,
+        "padding_top_mobile": 60,
+        "padding_bottom_mobile": 48,
+        "margin_top_mobile": 56,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "zp-product-footer-content": {
+      "type": "product-footer-content-zipifypages",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "1650546141ed30d512",
+    "1650546352985d0b9a",
+    "16505476253e029045",
+    "16474565353c0f5879",
+    "165239667117b157d2",
+    "1650641669ecb09b67",
+    "zp-product-footer-content"
+  ]
+}

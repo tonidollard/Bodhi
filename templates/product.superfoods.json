@@ -1,1 +1,831 @@
-{"sections":{"zp-product-header-content":{"type":"product-header-content-zipifypages","settings":{}},"main":{"type":"main-product","blocks":{"vendor":{"type":"text","disabled":true,"settings":{"text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{}},"809acdcc-330d-407b-894d-ef0c0d60611c":{"type":"shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/star-rating\/bb689e69-ea70-4661-8fb7-ad24a2e23c29","disabled":true,"settings":{"product":"{{product}}"}},"price":{"type":"price","settings":{}},"description":{"type":"description","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button"}},"8e54bd74-a7e9-4f8a-a1d8-655836f4c70f":{"type":"subscription","disabled":true,"settings":{"sub_text":"","sub_link_text":"","sub_link":""}},"quantity_selector":{"type":"quantity_selector","disabled":true,"settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true}},"share":{"type":"share","disabled":true,"settings":{"share_label":"Share"}},"31813356-c48a-43b8-b578-9a73cb674c7f":{"type":"collapsible_tab","settings":{"heading":"Product Details","icon":"plant","content":"<p><strong>Jam-Packed With 60 Super Ingredients:<\/strong> How many vitamins, probiotics, digestive enzymes, and antioxidants can we pack into one tasty glass... How does 5 dozen sound? We include a bountiful variety of organic goodies in each scoop. Greens include spirulina, apple, spinach, wheat grass, & bell peppers. We add reds like acai, cherry, tomato, raspberry, & goji. Yellow includes our Super Shroom Blend with shitake, reishi, Lion’s Mane, cordyceps, & more. A superfood extravaganza!<\/p>","page":""}},"b67b9fc1-2994-4ed3-8251-7bccd96e4690":{"type":"collapsible_tab","settings":{"heading":"Ingredients","icon":"clipboard","content":"<p>Citric acid, natural flavors, salt, silica and steviol glycosides. Contains tree nuts (coconut)<\/p>","page":""}},"9d0cda0b-2a5b-427f-b843-4a22417e26fd":{"type":"collapsible_tab","settings":{"heading":"Suggested Use","icon":"bottle","content":"<p>Mix 1 serving into 8-12 ounces of water OR your Clear Whey Protein OR your Plant Based Protein.  We crafted them all to blend amazing together! Be sure to pair your flavors right!<br\/><br\/>Ex: Mint Chocolate Superfoods + Mint Chocolate Plant Protein<br\/><br\/>Ex: Citrus Tang Superfoos + Lemon Lime Acai<\/p>","page":""}}},"block_order":["vendor","title","809acdcc-330d-407b-894d-ef0c0d60611c","price","description","variant_picker","8e54bd74-a7e9-4f8a-a1d8-655836f4c70f","quantity_selector","buy_buttons","share","31813356-c48a-43b8-b578-9a73cb674c7f","b67b9fc1-2994-4ed3-8251-7bccd96e4690","9d0cda0b-2a5b-427f-b843-4a22417e26fd"],"settings":{"enable_sticky_info":true,"gallery_layout":"thumbnail","media_size":"medium","mobile_thumbnails":"show","hide_variants":true,"enable_video_looping":false,"padding_top":48,"padding_bottom":80}},"product-recommendations":{"type":"product-recommendations","disabled":true,"settings":{"heading":"You may also like","heading_size":"h1","columns_desktop":4,"color_scheme":"background-1","image_ratio":"adapt","show_secondary_image":false,"show_vendor":false,"show_rating":false,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"1650546141ed30d512":{"type":"section-press","blocks":{"ffddea73-6553-4e4b-809b-e740dc5c19ee":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_233_1aa97228-b116-4006-89fe-1a56ae256954.png","claim":"Free Shipping on Order Above $99"}},"987f686b-ac7b-4423-9127-5bc3b4c61ef9":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_234_b58c4525-4b06-4150-b3cd-0a2819955844.png","claim":"Secured Payment & Checkout"}},"eeb21f66-8a30-4198-abb8-7dc082e57015":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_235_a7e21ff5-77c3-49e9-a451-fd614566ba9c.png","claim":"30 Day Money Back Guarantee"}},"ada3915d-a521-4ec0-9c39-9c026ead59d5":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_236_ddc5112c-377d-464b-85cf-76a7dfa3ef3d.png","claim":"Easy Returns"}}},"block_order":["ffddea73-6553-4e4b-809b-e740dc5c19ee","987f686b-ac7b-4423-9127-5bc3b4c61ef9","eeb21f66-8a30-4198-abb8-7dc082e57015","ada3915d-a521-4ec0-9c39-9c026ead59d5"],"settings":{"bg":"#ffffff","border_color":"#002e2d","text_color":"#00403e","section_type":"claims","title":"As Seen on","padding_top":12,"padding_bottom":12,"margin_top":0,"margin_bottom":0,"padding_top_mobile":12,"padding_bottom_mobile":12,"margin_top_mobile":0,"margin_bottom_mobile":0}},"1650787211c529422b":{"type":"multicolumn","blocks":{"1650787211be928b2f-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_302.png","title":"All In One<br>\nSuperrfod","text":"","link_label":"","link":""}},"2e3f5c99-9f01-4482-880d-d42f843a4e5c":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_307.png","title":"60+<br>Ingredients","text":"","link_label":"","link":""}},"f3213601-1ed0-44b8-ac6d-382bd3cedfff":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_305.png","title":"45 Reds & <br>Greens","text":"","link_label":"","link":""}},"1650787211be928b2f-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_311.png","title":"Super Shroom<br>Blend","text":"","link_label":"","link":""}},"1650787211be928b2f-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_303.png","title":"Digestive<br>\nEnzymes","text":"","link_label":"","link":""}},"af7aa0bf-ccc8-4791-bd55-a74fe204377a":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_309.png","title":"Detox &<br>\nCleanse","text":"","link_label":"","link":""}}},"block_order":["1650787211be928b2f-2","2e3f5c99-9f01-4482-880d-d42f843a4e5c","f3213601-1ed0-44b8-ac6d-382bd3cedfff","1650787211be928b2f-0","1650787211be928b2f-1","af7aa0bf-ccc8-4791-bd55-a74fe204377a"],"settings":{"bg-1":"#ffffff","subheading_color":"#222222","title_color":"#00403e","text_color":"#00403e","title":"","heading_style":"heading_with_text","heading_size":"h1","card_heading":"h3","subheading":"Subheading text","text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","image_width":30,"image_width_mob":35,"image_ratio":"adapt","columns_desktop":6,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-2","columns_mobile":"2","swipe_on_mobile":false,"padding_top":72,"padding_bottom":44}},"1650718237dcaacecb":{"type":"multicolumn","blocks":{"165071823782110262-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/SF8.jpg","title":"$500+ in products put into one.","text":"<p>For years we've spend hundreds and hundreds of dollars a month on supplements becuase the quality of our foods have gone down.  It has become insane to keep up with. We had to create a product to fix that for you.<\/p>","link_label":"","link":""}},"165071823782110262-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/SF7.jpg","title":"Can you trust the ingredients?","text":"<p>Every single ingredient has been selected to help provide an absolute result, more quality nutrition daily. Our proteins help provide macronutrients while our superfood provides micronutrition. This is cellular health at its finest.<\/p>","link_label":"","link":""}}},"block_order":["165071823782110262-0","165071823782110262-1"],"settings":{"bg-1":"#ffffff","subheading_color":"#00403e","title_color":"#00403e","text_color":"#00403e","title":"Ditch the bottles & clear the cabinet","heading_style":"heading_with_text","heading_size":"h1","card_heading":"h2","subheading":"Dozens of products in one bag","text":"<p>Opening multiple bottles of vitamins and supplements every morning is ridiculous.  It's also way to expensive. We've been working on this product for over a decade. Hand selecting every single ingredient to ensure the highest quality formula that actually helped you see results FAST! Most customers say they can feel a difference in the first few days.<\/p>","image_width":100,"image_width_mob":100,"image_ratio":"adapt","columns_desktop":2,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-2","columns_mobile":"1","swipe_on_mobile":false,"padding_top":60,"padding_bottom":8}},"16474565353c0f5879":{"type":"image-with-text","blocks":{"0486b804-2546-46b0-8720-6d5d291fb43d":{"type":"subheading","settings":{"subheading_color":"#00403e","subheading":"Whats in the bag?"}},"1647456535adf22661-0":{"type":"heading","settings":{"heading_color":"#00403e","heading":"The best superfoods money can buy.","heading_size":"h1"}},"1647456535adf22661-1":{"type":"text","settings":{"text_color":"#222222","text":"<p>Greens, Reds & Yellows have a fortifying array of vitamins, digestive enzymes, adaptogens, root extracts, fiber, and more. Fruits, Veggies, & Super Shrooms are ready to help you thrive every day.<\/p>\n\n<ul role=\"list\" class=\"tick secondary\">\n  <li>Greens include spirulina, apple, spinach, wheat grass, & bell peppers<\/li>\n  <li>Reds like acai, cherry, tomato, raspberry, & goji<\/li>\n  <li> Yellow includes our Super Shroom Blend with shitake, reishi, Lion’s Mane, cordyceps, & more<\/li>\n<\/ul>","text_style":"body"}}},"block_order":["0486b804-2546-46b0-8720-6d5d291fb43d","1647456535adf22661-0","1647456535adf22661-1"],"settings":{"use_bg":true,"use_half_mobile":false,"full_width":true,"no_image":false,"bg":"#ffffff","bg_back":"#ffffff","bg_secondary":"#ffffff","image":"shopify:\/\/shop_images\/cw7.jpg","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"accent-2","mobile_content_alignment":"left","padding_top":84,"padding_bottom":84,"margin_top":0,"margin_bottom":0,"padding_top_mobile":8,"padding_bottom_mobile":48,"margin_top_mobile":0,"margin_bottom_mobile":0}},"16508033723f1bf783":{"type":"section-reviews","blocks":{"119a96e5-8157-4bab-ac6c-b7bcfb0105d2":{"type":"review","settings":{"review":"\"This has my mind blown. It's so dang good. I've honestly tried so many superfood drinks and always throw them.\"","review_name":"Amazon Customer"}},"e44361f7-94ab-4106-81cf-443ec7515f61":{"type":"review","settings":{"review":"\"Bright, Tangy, Vibrant, and Loaded with Nutrients\"","review_name":"Greens, REds & Yellows customer"}},"2a472acb-e22f-4069-9533-92921c255956":{"type":"review","settings":{"review":"\"Overly Impressed! Over the years I have taken a ton of different products, supplements, vitamins etc. But this has to be my favorite thus far. It’s prices right for all of what you get inside and for me I have felt a difference from a day I do take it and I don’t take it. \"","review_name":"Greens, reds & yellows customer"}},"7f5667f9-b75d-4477-9069-004a5018ba6e":{"type":"review","settings":{"review":"\"I can't believe how great this tastes!\"","review_name":"Amazon customer"}},"23f19997-3abc-4905-b605-8ea15f0459df":{"type":"review","settings":{"review":"\"They’ve found a way to pack over 60 ingredients into each scoop and they made it dairy, soy and gluten free. While the price isn’t free, it’s nice to know that they donate some of the proceeds to charity, too. 😱\"","review_name":"Greens, reds & yellows customer"}},"febd61d8-fe70-4b1a-ba9d-b605899be190":{"type":"review","settings":{"review":"\"I would recommend a shaker for this blend as hand mixing is a bit difficult... but boy is it worth it. The flavor is bright and tangy - hard to place an exact flavor... but is quite refreshing. This has easily replaced my traditional orange juice in the morning and I haven't looked back. I am also so happy with the carb-to-fiber ratio and count... I have been able to incorporate this without a hike in my glucose readings in the morning... yay!\"","review_name":"Amazon Customer"}}},"block_order":["119a96e5-8157-4bab-ac6c-b7bcfb0105d2","e44361f7-94ab-4106-81cf-443ec7515f61","2a472acb-e22f-4069-9533-92921c255956","7f5667f9-b75d-4477-9069-004a5018ba6e","23f19997-3abc-4905-b605-8ea15f0459df","febd61d8-fe70-4b1a-ba9d-b605899be190"],"settings":{"container-large":true,"use_gradient":false,"bg-1":"#003836","bg-2":"#00403e","subheading_color":"#ffeb7c","heading_color":"#ffffff","text_color":"#ffffff","rating_color":"#b15126","review_color":"#000000","review_name_color":"#00403e","subheading":"Real PEople, real reviews","heading":"Not every hero wears a cape","heading_style":"heading_with_text","heading_size":"h1","text":"<p>We stand by our belief that this is the best superfood product on the market. With over a decade of trial and errors, we feel we've nailed not only the formula, packed with 16g+ of nutrients per serving (avg is 4-7g), but we've knocked the flavors out of the park! Just see what everyone else has to say...<\/p>","button_label":"Button label","button_link":"","button_style_secondary":false,"text_style":"background-1","button_style":"primary","padding_top":68,"padding_bottom":76,"margin_top":0,"margin_bottom":0,"padding_top_mobile":76,"padding_bottom_mobile":84,"margin_top_mobile":0,"margin_bottom_mobile":0}},"16505476253e029045":{"type":"image-with-text","blocks":{"791e90a2-c5f3-4e19-8eef-3d467e818e89":{"type":"subheading","settings":{"subheading_color":"#00403e","subheading":"Your true potential is inside"}},"1650547625d1ae993e-0":{"type":"heading","settings":{"heading_color":"#00403e","heading":"We’ve Got the Goods On Easier Nutrition","heading_size":"h1"}},"1650547625d1ae993e-1":{"type":"text","settings":{"text_color":"#00403e","text":"Plant Goods gives you a full 30-day promise to absorb, notice, and appreciate the valuable benefits of our superfood blend. If you ever have any questions, don’t hesitate to get in touch. Crafted to not be annoyingly complicated, depend on us to streamline your nutrition with everyday ingredients to invigorate your taste buds and body.\n\n<ul role=\"list\" class=\"tick\">\n  <li>Save more time in the morning.<\/li>\n  <li>Create more natural energy without stimulants <\/li>\n  <li> Watch your hair, skin and nails strengthen<\/li>\n<\/ul>","text_style":"body"}},"4aaef842-bc38-49ea-9af8-9f47aa59d7e1":{"type":"info-blocks","disabled":true,"settings":{"heading_color":"#ffffff","subheading_color":"#ffeb7c","heading1":"25%","subheading1":"Protein","heading2":"12%","subheading2":"Carbs","heading3":"0.1%","subheading3":"Sugar","heading4":"","subheading4":""}},"a0ae1f3e-fe60-49b8-98a9-9abdce5dcf2b":{"type":"reviews","disabled":true,"settings":{"text_color":"#ffffff","border_color":"#ffffff","rating_color":"#ffeb7c","reviewer_color":"#ffeb7c","review1":"I had the confidence not to wear a pad, first time in ages","reviewer1":"Nate S.","review2":"I had the confidence not to wear a pad, first time in ages","reviewer2":"Nate S."}}},"block_order":["791e90a2-c5f3-4e19-8eef-3d467e818e89","1650547625d1ae993e-0","1650547625d1ae993e-1","4aaef842-bc38-49ea-9af8-9f47aa59d7e1","a0ae1f3e-fe60-49b8-98a9-9abdce5dcf2b"],"settings":{"use_bg":true,"use_half_mobile":false,"full_width":true,"no_image":false,"bg":"#ffffff","bg_back":"#ffffff","bg_secondary":"#003836","image":"shopify:\/\/shop_images\/SF4.jpg","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":56,"padding_bottom":52,"margin_top":0,"margin_bottom":0,"padding_top_mobile":12,"padding_bottom_mobile":64,"margin_top_mobile":0,"margin_bottom_mobile":0}},"1650546352985d0b9a":{"type":"section-icon-slider","blocks":{"e01bf1ee-45f1-49ca-9bf5-776d03cbead9":{"type":"icon","settings":{"image":"shopify:\/\/shop_images\/icon4.png","title":"Choose Your Flavor","para":"We offer two amazing flavors of our superfoods. Citrus Tang which has more of an tangerine profile and Mint Chocolate which taste just like andies candie! You can hardly taste the greens which was exactly what we set out to do."}},"8da69e16-ad25-4d74-ad96-9a29103eb2d5":{"type":"icon","settings":{"image":"shopify:\/\/shop_images\/icon-sup4.png","title":"Choose Your Protein","para":"Pick between plant based protein or clear whey protein or even both depending on who you have in the house, doesn't hurt to have both!"}},"06728712-3469-45d2-b7dd-641fa87dce73":{"type":"icon","settings":{"image":"shopify:\/\/shop_images\/icon-sch4.png","title":"Schedule Your Orders","para":"We created delivery options between 2 weeks and 8 weeks so you can get exactly what you want when you want it!  Not to soon, not too late! Complete flexibility."}}},"block_order":["e01bf1ee-45f1-49ca-9bf5-776d03cbead9","8da69e16-ad25-4d74-ad96-9a29103eb2d5","06728712-3469-45d2-b7dd-641fa87dce73"],"settings":{"bg":"#ffffff","subheading_color":"#003937","heading_color":"#003937","text_color":"#003937","block_heading_color":"#003937","block_text_color":"#003937","container-large":false,"use_gradient":false,"bg-1":"#f5f4ec","bg-2":"#ffffff","heading":"Built for us, shared with you.","subheading":"We want to change the way you supplement","heading_size":"h1","text":"<p>Everyday time goes by faster and faster, memories are stacking up and what we really care about means more and more. Now is the time to take your lifestyle and nutrition seriously. We made it easyer, faster and cheaper for you.<\/p>","text_style":"background-1","padding_top":92,"padding_bottom":0,"margin_top":0,"margin_bottom":0,"padding_top_mobile":100,"padding_bottom_mobile":56,"margin_top_mobile":0,"margin_bottom_mobile":0}},"1650803502ad4940a7":{"type":"image-with-text","blocks":{"1650803502853d0eed-0":{"type":"heading","settings":{"heading_color":"#ffffff","heading":"Try Greens, Yellows & Reds Today!","heading_size":"h1"}},"1650803502853d0eed-1":{"type":"text","settings":{"text_color":"#ffffff","text":"Our All-In-One green superfood powder is crafted to include everything your body craves and more in a blend that's NOT annoyingly complicated. We made things easy by combining hundreds of dollars worth of invigorating ingredients in one simple-to-scoop bag.","text_style":"body"}},"1650803502853d0eed-2":{"type":"button","settings":{"button_style":"secondary","button_label":"Shop Now","button_link":"#ProductSlider-7666373558518"}}},"block_order":["1650803502853d0eed-0","1650803502853d0eed-1","1650803502853d0eed-2"],"settings":{"use_bg":true,"use_half_mobile":true,"full_width":false,"no_image":true,"bg":"#00403e","bg_back":"#ffffff","bg_secondary":"#f5f4ec","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"center","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"center","padding_top":0,"padding_bottom":16,"margin_top":0,"margin_bottom":0,"padding_top_mobile":0,"padding_bottom_mobile":0,"margin_top_mobile":0,"margin_bottom_mobile":0}},"1650641669ecb09b67":{"type":"section-recommended-products","blocks":{"b13302c2-2ffe-4994-b731-747ee089f6ca":{"type":"product","settings":{"product":"plant-based-protein"}},"60f9cfa7-0201-4340-bd93-e7b044a22a59":{"type":"product","settings":{"product":"clear-whey-protein"}},"b78b0b47-3b99-4496-b3dc-f2275386ba2e":{"type":"product","settings":{"product":"shaker-bottle"}}},"block_order":["b13302c2-2ffe-4994-b731-747ee089f6ca","60f9cfa7-0201-4340-bd93-e7b044a22a59","b78b0b47-3b99-4496-b3dc-f2275386ba2e"],"settings":{"use_custom":true,"container-large":false,"slider_mobile":true,"use_gradient":false,"bg-1":"#ffffff","bg-2":"#ffffff","subheading":"Recommended","heading":"People also bought","heading_style":"only_heading","heading_size":"h1","text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","button_label":"Button label","button_link":"","button_style_secondary":false,"text_style":"background-1","button_style":"primary","padding_top":64,"padding_bottom":64,"margin_top":0,"margin_bottom":0,"padding_top_mobile":84,"padding_bottom_mobile":48,"margin_top_mobile":0,"margin_bottom_mobile":0}},"1650792511d70ac2eb":{"type":"collapsible-content","blocks":{"16507925116bf9c065-0":{"type":"collapsible_row","settings":{"heading":"What is the point of this product?","icon":"none","row_content":"<p>Our founder starting taking, mixing and playing with greens and wheatgrass products over a decade ago.  It was a fast obsession that then turned into something he could drink when fasting.  That quickly turned into a giant science expereiment of ingredients that can keep your body performing at an optimal level while fasteed.  This would mean whatever was in this had to have low calories, no sugars, no amino acids and the right functional ingredients to keep your body busy and rejuvenating on a cellular level.  This lead to Plant Goods and products that you can't live without.<\/p>","page":""}},"16507925116bf9c065-1":{"type":"collapsible_row","settings":{"heading":"Why is it expensive?","icon":"none","row_content":"<p>Great question, a relative question.  If you were to go to any store and build this product one by one, you'd be between $500-$1,000 to make what we have here.  Companies are selling you multiple products for what we are selling you in one.  We packed 60+ ingredients and 16g of nutrients in this one serving.  The average compeitor has 4-7g of nutrients inside.  We have built a superior product that is going to save you tons of money and time.<\/p>","page":""}},"16507925116bf9c065-2":{"type":"collapsible_row","settings":{"heading":"Is it organic?","icon":"none","row_content":"<p>Yes, all of our greens and reds are organic!<\/p>","page":""}},"16507925116bf9c065-3":{"type":"collapsible_row","settings":{"heading":"What if I don't like the taste?","icon":"none","row_content":"<p>Don't worry, we've all been there. We highly suggest you give it a few weeks to see if your palette gets used to it.  We spent months dialing in these flavors so that they were the highest quality of flavoring systems and covered the green taste as best as possible.  The reviews have been insanely positive and that is taste great!  You can be the judge.<\/p>","page":""}}},"block_order":["16507925116bf9c065-0","16507925116bf9c065-1","16507925116bf9c065-2","16507925116bf9c065-3"],"settings":{"caption":"","heading":"Plant Protein FAQ","heading_size":"h1","heading_alignment":"center","layout":"none","color_scheme":"background-1","container_color_scheme":"background-2","open_first_collapsible_row":false,"image_ratio":"adapt","desktop_layout":"image_second","padding_top":84,"padding_bottom":92}},"zp-product-footer-content":{"type":"product-footer-content-zipifypages","settings":{}}},"order":["zp-product-header-content","main","product-recommendations","1650546141ed30d512","1650787211c529422b","1650718237dcaacecb","16474565353c0f5879","16508033723f1bf783","16505476253e029045","1650546352985d0b9a","1650803502ad4940a7","1650641669ecb09b67","1650792511d70ac2eb","zp-product-footer-content"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "809acdcc-330d-407b-894d-ef0c0d60611c": {
+          "type": "shopify://apps/okendo-product-reviews-ugc/blocks/star-rating/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "disabled": true,
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "8e54bd74-a7e9-4f8a-a1d8-655836f4c70f": {
+          "type": "subscription",
+          "disabled": true,
+          "settings": {
+            "sub_text": "",
+            "sub_link_text": "",
+            "sub_link": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "31813356-c48a-43b8-b578-9a73cb674c7f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Product Details",
+            "icon": "plant",
+            "content": "<p><strong>Jam-Packed With 60 Super Ingredients:</strong> How many vitamins, probiotics, digestive enzymes, and antioxidants can we pack into one tasty glass... How does 5 dozen sound? We include a bountiful variety of organic goodies in each scoop. Greens include spirulina, apple, spinach, wheat grass, & bell peppers. We add reds like acai, cherry, tomato, raspberry, & goji. Yellow includes our Super Shroom Blend with shitake, reishi, Lion’s Mane, cordyceps, & more. A superfood extravaganza!</p>",
+            "page": ""
+          }
+        },
+        "b67b9fc1-2994-4ed3-8251-7bccd96e4690": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingredients",
+            "icon": "clipboard",
+            "content": "<p>Citric acid, natural flavors, salt, silica and steviol glycosides. Contains tree nuts (coconut)</p>",
+            "page": ""
+          }
+        },
+        "9d0cda0b-2a5b-427f-b843-4a22417e26fd": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Suggested Use",
+            "icon": "bottle",
+            "content": "<p>Mix 1 serving into 8-12 ounces of water OR your Clear Whey Protein OR your Plant Based Protein.  We crafted them all to blend amazing together! Be sure to pair your flavors right!<br/><br/>Ex: Mint Chocolate Superfoods + Mint Chocolate Plant Protein<br/><br/>Ex: Citrus Tang Superfoos + Lemon Lime Acai</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "809acdcc-330d-407b-894d-ef0c0d60611c",
+        "price",
+        "description",
+        "variant_picker",
+        "8e54bd74-a7e9-4f8a-a1d8-655836f4c70f",
+        "quantity_selector",
+        "buy_buttons",
+        "share",
+        "31813356-c48a-43b8-b578-9a73cb674c7f",
+        "b67b9fc1-2994-4ed3-8251-7bccd96e4690",
+        "9d0cda0b-2a5b-427f-b843-4a22417e26fd"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "gallery_layout": "thumbnail",
+        "media_size": "medium",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 48,
+        "padding_bottom": 80
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h1",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1650546141ed30d512": {
+      "type": "section-press",
+      "blocks": {
+        "ffddea73-6553-4e4b-809b-e740dc5c19ee": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_233_1aa97228-b116-4006-89fe-1a56ae256954.png",
+            "claim": "Free Shipping on Order Above $99"
+          }
+        },
+        "987f686b-ac7b-4423-9127-5bc3b4c61ef9": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_234_b58c4525-4b06-4150-b3cd-0a2819955844.png",
+            "claim": "Secured Payment & Checkout"
+          }
+        },
+        "eeb21f66-8a30-4198-abb8-7dc082e57015": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_235_a7e21ff5-77c3-49e9-a451-fd614566ba9c.png",
+            "claim": "30 Day Money Back Guarantee"
+          }
+        },
+        "ada3915d-a521-4ec0-9c39-9c026ead59d5": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_236_ddc5112c-377d-464b-85cf-76a7dfa3ef3d.png",
+            "claim": "Easy Returns"
+          }
+        }
+      },
+      "block_order": [
+        "ffddea73-6553-4e4b-809b-e740dc5c19ee",
+        "987f686b-ac7b-4423-9127-5bc3b4c61ef9",
+        "eeb21f66-8a30-4198-abb8-7dc082e57015",
+        "ada3915d-a521-4ec0-9c39-9c026ead59d5"
+      ],
+      "settings": {
+        "bg": "#ffffff",
+        "border_color": "#002e2d",
+        "text_color": "#00403e",
+        "section_type": "claims",
+        "title": "As Seen on",
+        "padding_top": 12,
+        "padding_bottom": 12,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 12,
+        "padding_bottom_mobile": 12,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "1650787211c529422b": {
+      "type": "multicolumn",
+      "blocks": {
+        "1650787211be928b2f-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_302.png",
+            "title": "All In One<br>\nSuperrfod",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2e3f5c99-9f01-4482-880d-d42f843a4e5c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_307.png",
+            "title": "60+<br>Ingredients",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f3213601-1ed0-44b8-ac6d-382bd3cedfff": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_305.png",
+            "title": "45 Reds & <br>Greens",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1650787211be928b2f-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_311.png",
+            "title": "Super Shroom<br>Blend",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1650787211be928b2f-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_303.png",
+            "title": "Digestive<br>\nEnzymes",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "af7aa0bf-ccc8-4791-bd55-a74fe204377a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_309.png",
+            "title": "Detox &<br>\nCleanse",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1650787211be928b2f-2",
+        "2e3f5c99-9f01-4482-880d-d42f843a4e5c",
+        "f3213601-1ed0-44b8-ac6d-382bd3cedfff",
+        "1650787211be928b2f-0",
+        "1650787211be928b2f-1",
+        "af7aa0bf-ccc8-4791-bd55-a74fe204377a"
+      ],
+      "settings": {
+        "bg-1": "#ffffff",
+        "subheading_color": "#222222",
+        "title_color": "#00403e",
+        "text_color": "#00403e",
+        "title": "",
+        "heading_style": "heading_with_text",
+        "heading_size": "h1",
+        "card_heading": "h3",
+        "subheading": "Subheading text",
+        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+        "image_width": 30,
+        "image_width_mob": 35,
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 44
+      }
+    },
+    "1650718237dcaacecb": {
+      "type": "multicolumn",
+      "blocks": {
+        "165071823782110262-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SF8.jpg",
+            "title": "$500+ in products put into one.",
+            "text": "<p>For years we've spend hundreds and hundreds of dollars a month on supplements becuase the quality of our foods have gone down.  It has become insane to keep up with. We had to create a product to fix that for you.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "165071823782110262-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SF7.jpg",
+            "title": "Can you trust the ingredients?",
+            "text": "<p>Every single ingredient has been selected to help provide an absolute result, more quality nutrition daily. Our proteins help provide macronutrients while our superfood provides micronutrition. This is cellular health at its finest.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165071823782110262-0",
+        "165071823782110262-1"
+      ],
+      "settings": {
+        "bg-1": "#ffffff",
+        "subheading_color": "#00403e",
+        "title_color": "#00403e",
+        "text_color": "#00403e",
+        "title": "Ditch the bottles & clear the cabinet",
+        "heading_style": "heading_with_text",
+        "heading_size": "h1",
+        "card_heading": "h2",
+        "subheading": "Dozens of products in one bag",
+        "text": "<p>Opening multiple bottles of vitamins and supplements every morning is ridiculous.  It's also way to expensive. We've been working on this product for over a decade. Hand selecting every single ingredient to ensure the highest quality formula that actually helped you see results FAST! Most customers say they can feel a difference in the first few days.</p>",
+        "image_width": 100,
+        "image_width_mob": 100,
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 8
+      }
+    },
+    "16474565353c0f5879": {
+      "type": "image-with-text",
+      "blocks": {
+        "0486b804-2546-46b0-8720-6d5d291fb43d": {
+          "type": "subheading",
+          "settings": {
+            "subheading_color": "#00403e",
+            "subheading": "Whats in the bag?"
+          }
+        },
+        "1647456535adf22661-0": {
+          "type": "heading",
+          "settings": {
+            "heading_color": "#00403e",
+            "heading": "The best superfoods money can buy.",
+            "heading_size": "h1"
+          }
+        },
+        "1647456535adf22661-1": {
+          "type": "text",
+          "settings": {
+            "text_color": "#222222",
+            "text": "<p>Greens, Reds & Yellows have a fortifying array of vitamins, digestive enzymes, adaptogens, root extracts, fiber, and more. Fruits, Veggies, & Super Shrooms are ready to help you thrive every day.</p>\n\n<ul role=\"list\" class=\"tick secondary\">\n  <li>Greens include spirulina, apple, spinach, wheat grass, & bell peppers</li>\n  <li>Reds like acai, cherry, tomato, raspberry, & goji</li>\n  <li> Yellow includes our Super Shroom Blend with shitake, reishi, Lion’s Mane, cordyceps, & more</li>\n</ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "0486b804-2546-46b0-8720-6d5d291fb43d",
+        "1647456535adf22661-0",
+        "1647456535adf22661-1"
+      ],
+      "settings": {
+        "use_bg": true,
+        "use_half_mobile": false,
+        "full_width": true,
+        "no_image": false,
+        "bg": "#ffffff",
+        "bg_back": "#ffffff",
+        "bg_secondary": "#ffffff",
+        "image": "shopify://shop_images/cw7.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 84,
+        "padding_bottom": 84,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 8,
+        "padding_bottom_mobile": 48,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "16508033723f1bf783": {
+      "type": "section-reviews",
+      "blocks": {
+        "119a96e5-8157-4bab-ac6c-b7bcfb0105d2": {
+          "type": "review",
+          "settings": {
+            "review": "\"This has my mind blown. It's so dang good. I've honestly tried so many superfood drinks and always throw them.\"",
+            "review_name": "Amazon Customer"
+          }
+        },
+        "e44361f7-94ab-4106-81cf-443ec7515f61": {
+          "type": "review",
+          "settings": {
+            "review": "\"Bright, Tangy, Vibrant, and Loaded with Nutrients\"",
+            "review_name": "Greens, REds & Yellows customer"
+          }
+        },
+        "2a472acb-e22f-4069-9533-92921c255956": {
+          "type": "review",
+          "settings": {
+            "review": "\"Overly Impressed! Over the years I have taken a ton of different products, supplements, vitamins etc. But this has to be my favorite thus far. It’s prices right for all of what you get inside and for me I have felt a difference from a day I do take it and I don’t take it. \"",
+            "review_name": "Greens, reds & yellows customer"
+          }
+        },
+        "7f5667f9-b75d-4477-9069-004a5018ba6e": {
+          "type": "review",
+          "settings": {
+            "review": "\"I can't believe how great this tastes!\"",
+            "review_name": "Amazon customer"
+          }
+        },
+        "23f19997-3abc-4905-b605-8ea15f0459df": {
+          "type": "review",
+          "settings": {
+            "review": "\"They’ve found a way to pack over 60 ingredients into each scoop and they made it dairy, soy and gluten free. While the price isn’t free, it’s nice to know that they donate some of the proceeds to charity, too. 😱\"",
+            "review_name": "Greens, reds & yellows customer"
+          }
+        },
+        "febd61d8-fe70-4b1a-ba9d-b605899be190": {
+          "type": "review",
+          "settings": {
+            "review": "\"I would recommend a shaker for this blend as hand mixing is a bit difficult... but boy is it worth it. The flavor is bright and tangy - hard to place an exact flavor... but is quite refreshing. This has easily replaced my traditional orange juice in the morning and I haven't looked back. I am also so happy with the carb-to-fiber ratio and count... I have been able to incorporate this without a hike in my glucose readings in the morning... yay!\"",
+            "review_name": "Amazon Customer"
+          }
+        }
+      },
+      "block_order": [
+        "119a96e5-8157-4bab-ac6c-b7bcfb0105d2",
+        "e44361f7-94ab-4106-81cf-443ec7515f61",
+        "2a472acb-e22f-4069-9533-92921c255956",
+        "7f5667f9-b75d-4477-9069-004a5018ba6e",
+        "23f19997-3abc-4905-b605-8ea15f0459df",
+        "febd61d8-fe70-4b1a-ba9d-b605899be190"
+      ],
+      "settings": {
+        "container-large": true,
+        "use_gradient": false,
+        "bg-1": "#003836",
+        "bg-2": "#00403e",
+        "subheading_color": "#ffeb7c",
+        "heading_color": "#ffffff",
+        "text_color": "#ffffff",
+        "rating_color": "#b15126",
+        "review_color": "#000000",
+        "review_name_color": "#00403e",
+        "subheading": "Real PEople, real reviews",
+        "heading": "Not every hero wears a cape",
+        "heading_style": "heading_with_text",
+        "heading_size": "h1",
+        "text": "<p>We stand by our belief that this is the best superfood product on the market. With over a decade of trial and errors, we feel we've nailed not only the formula, packed with 16g+ of nutrients per serving (avg is 4-7g), but we've knocked the flavors out of the park! Just see what everyone else has to say...</p>",
+        "button_label": "Button label",
+        "button_link": "",
+        "button_style_secondary": false,
+        "text_style": "background-1",
+        "button_style": "primary",
+        "padding_top": 68,
+        "padding_bottom": 76,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 76,
+        "padding_bottom_mobile": 84,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "16505476253e029045": {
+      "type": "image-with-text",
+      "blocks": {
+        "791e90a2-c5f3-4e19-8eef-3d467e818e89": {
+          "type": "subheading",
+          "settings": {
+            "subheading_color": "#00403e",
+            "subheading": "Your true potential is inside"
+          }
+        },
+        "1650547625d1ae993e-0": {
+          "type": "heading",
+          "settings": {
+            "heading_color": "#00403e",
+            "heading": "We’ve Got the Goods On Easier Nutrition",
+            "heading_size": "h1"
+          }
+        },
+        "1650547625d1ae993e-1": {
+          "type": "text",
+          "settings": {
+            "text_color": "#00403e",
+            "text": "Plant Goods gives you a full 30-day promise to absorb, notice, and appreciate the valuable benefits of our superfood blend. If you ever have any questions, don’t hesitate to get in touch. Crafted to not be annoyingly complicated, depend on us to streamline your nutrition with everyday ingredients to invigorate your taste buds and body.\n\n<ul role=\"list\" class=\"tick\">\n  <li>Save more time in the morning.</li>\n  <li>Create more natural energy without stimulants </li>\n  <li> Watch your hair, skin and nails strengthen</li>\n</ul>",
+            "text_style": "body"
+          }
+        },
+        "4aaef842-bc38-49ea-9af8-9f47aa59d7e1": {
+          "type": "info-blocks",
+          "disabled": true,
+          "settings": {
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffeb7c",
+            "heading1": "25%",
+            "subheading1": "Protein",
+            "heading2": "12%",
+            "subheading2": "Carbs",
+            "heading3": "0.1%",
+            "subheading3": "Sugar",
+            "heading4": "",
+            "subheading4": ""
+          }
+        },
+        "a0ae1f3e-fe60-49b8-98a9-9abdce5dcf2b": {
+          "type": "reviews",
+          "disabled": true,
+          "settings": {
+            "text_color": "#ffffff",
+            "border_color": "#ffffff",
+            "rating_color": "#ffeb7c",
+            "reviewer_color": "#ffeb7c",
+            "review1": "I had the confidence not to wear a pad, first time in ages",
+            "reviewer1": "Nate S.",
+            "review2": "I had the confidence not to wear a pad, first time in ages",
+            "reviewer2": "Nate S."
+          }
+        }
+      },
+      "block_order": [
+        "791e90a2-c5f3-4e19-8eef-3d467e818e89",
+        "1650547625d1ae993e-0",
+        "1650547625d1ae993e-1",
+        "4aaef842-bc38-49ea-9af8-9f47aa59d7e1",
+        "a0ae1f3e-fe60-49b8-98a9-9abdce5dcf2b"
+      ],
+      "settings": {
+        "use_bg": true,
+        "use_half_mobile": false,
+        "full_width": true,
+        "no_image": false,
+        "bg": "#ffffff",
+        "bg_back": "#ffffff",
+        "bg_secondary": "#003836",
+        "image": "shopify://shop_images/SF4.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 56,
+        "padding_bottom": 52,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 12,
+        "padding_bottom_mobile": 64,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "1650546352985d0b9a": {
+      "type": "section-icon-slider",
+      "blocks": {
+        "e01bf1ee-45f1-49ca-9bf5-776d03cbead9": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/icon4.png",
+            "title": "Choose Your Flavor",
+            "para": "We offer two amazing flavors of our superfoods. Citrus Tang which has more of an tangerine profile and Mint Chocolate which taste just like andies candie! You can hardly taste the greens which was exactly what we set out to do."
+          }
+        },
+        "8da69e16-ad25-4d74-ad96-9a29103eb2d5": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/icon-sup4.png",
+            "title": "Choose Your Protein",
+            "para": "Pick between plant based protein or clear whey protein or even both depending on who you have in the house, doesn't hurt to have both!"
+          }
+        },
+        "06728712-3469-45d2-b7dd-641fa87dce73": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/icon-sch4.png",
+            "title": "Schedule Your Orders",
+            "para": "We created delivery options between 2 weeks and 8 weeks so you can get exactly what you want when you want it!  Not to soon, not too late! Complete flexibility."
+          }
+        }
+      },
+      "block_order": [
+        "e01bf1ee-45f1-49ca-9bf5-776d03cbead9",
+        "8da69e16-ad25-4d74-ad96-9a29103eb2d5",
+        "06728712-3469-45d2-b7dd-641fa87dce73"
+      ],
+      "settings": {
+        "bg": "#ffffff",
+        "subheading_color": "#003937",
+        "heading_color": "#003937",
+        "text_color": "#003937",
+        "block_heading_color": "#003937",
+        "block_text_color": "#003937",
+        "container-large": false,
+        "use_gradient": false,
+        "bg-1": "#f5f4ec",
+        "bg-2": "#ffffff",
+        "heading": "Built for us, shared with you.",
+        "subheading": "We want to change the way you supplement",
+        "heading_size": "h1",
+        "text": "<p>Everyday time goes by faster and faster, memories are stacking up and what we really care about means more and more. Now is the time to take your lifestyle and nutrition seriously. We made it easyer, faster and cheaper for you.</p>",
+        "text_style": "background-1",
+        "padding_top": 92,
+        "padding_bottom": 0,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 100,
+        "padding_bottom_mobile": 56,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "1650803502ad4940a7": {
+      "type": "image-with-text",
+      "blocks": {
+        "1650803502853d0eed-0": {
+          "type": "heading",
+          "settings": {
+            "heading_color": "#ffffff",
+            "heading": "Try Greens, Yellows & Reds Today!",
+            "heading_size": "h1"
+          }
+        },
+        "1650803502853d0eed-1": {
+          "type": "text",
+          "settings": {
+            "text_color": "#ffffff",
+            "text": "Our All-In-One green superfood powder is crafted to include everything your body craves and more in a blend that's NOT annoyingly complicated. We made things easy by combining hundreds of dollars worth of invigorating ingredients in one simple-to-scoop bag.",
+            "text_style": "body"
+          }
+        },
+        "1650803502853d0eed-2": {
+          "type": "button",
+          "settings": {
+            "button_style": "secondary",
+            "button_label": "Shop Now",
+            "button_link": "#ProductSlider-7666373558518"
+          }
+        }
+      },
+      "block_order": [
+        "1650803502853d0eed-0",
+        "1650803502853d0eed-1",
+        "1650803502853d0eed-2"
+      ],
+      "settings": {
+        "use_bg": true,
+        "use_half_mobile": true,
+        "full_width": false,
+        "no_image": true,
+        "bg": "#00403e",
+        "bg_back": "#ffffff",
+        "bg_secondary": "#f5f4ec",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 16,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 0,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "1650641669ecb09b67": {
+      "type": "section-recommended-products",
+      "blocks": {
+        "b13302c2-2ffe-4994-b731-747ee089f6ca": {
+          "type": "product",
+          "settings": {
+            "product": "plant-based-protein"
+          }
+        },
+        "60f9cfa7-0201-4340-bd93-e7b044a22a59": {
+          "type": "product",
+          "settings": {
+            "product": "clear-whey-protein"
+          }
+        },
+        "b78b0b47-3b99-4496-b3dc-f2275386ba2e": {
+          "type": "product",
+          "settings": {
+            "product": "shaker-bottle"
+          }
+        }
+      },
+      "block_order": [
+        "b13302c2-2ffe-4994-b731-747ee089f6ca",
+        "60f9cfa7-0201-4340-bd93-e7b044a22a59",
+        "b78b0b47-3b99-4496-b3dc-f2275386ba2e"
+      ],
+      "settings": {
+        "use_custom": true,
+        "container-large": false,
+        "slider_mobile": true,
+        "use_gradient": false,
+        "bg-1": "#ffffff",
+        "bg-2": "#ffffff",
+        "subheading": "Recommended",
+        "heading": "People also bought",
+        "heading_style": "only_heading",
+        "heading_size": "h1",
+        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+        "button_label": "Button label",
+        "button_link": "",
+        "button_style_secondary": false,
+        "text_style": "background-1",
+        "button_style": "primary",
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 84,
+        "padding_bottom_mobile": 48,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "1650792511d70ac2eb": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16507925116bf9c065-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the point of this product?",
+            "icon": "none",
+            "row_content": "<p>Our founder starting taking, mixing and playing with greens and wheatgrass products over a decade ago.  It was a fast obsession that then turned into something he could drink when fasting.  That quickly turned into a giant science expereiment of ingredients that can keep your body performing at an optimal level while fasteed.  This would mean whatever was in this had to have low calories, no sugars, no amino acids and the right functional ingredients to keep your body busy and rejuvenating on a cellular level.  This lead to Plant Goods and products that you can't live without.</p>",
+            "page": ""
+          }
+        },
+        "16507925116bf9c065-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why is it expensive?",
+            "icon": "none",
+            "row_content": "<p>Great question, a relative question.  If you were to go to any store and build this product one by one, you'd be between $500-$1,000 to make what we have here.  Companies are selling you multiple products for what we are selling you in one.  We packed 60+ ingredients and 16g of nutrients in this one serving.  The average compeitor has 4-7g of nutrients inside.  We have built a superior product that is going to save you tons of money and time.</p>",
+            "page": ""
+          }
+        },
+        "16507925116bf9c065-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is it organic?",
+            "icon": "none",
+            "row_content": "<p>Yes, all of our greens and reds are organic!</p>",
+            "page": ""
+          }
+        },
+        "16507925116bf9c065-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What if I don't like the taste?",
+            "icon": "none",
+            "row_content": "<p>Don't worry, we've all been there. We highly suggest you give it a few weeks to see if your palette gets used to it.  We spent months dialing in these flavors so that they were the highest quality of flavoring systems and covered the green taste as best as possible.  The reviews have been insanely positive and that is taste great!  You can be the judge.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16507925116bf9c065-0",
+        "16507925116bf9c065-1",
+        "16507925116bf9c065-2",
+        "16507925116bf9c065-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Plant Protein FAQ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 84,
+        "padding_bottom": 92
+      }
+    },
+    "zp-product-footer-content": {
+      "type": "product-footer-content-zipifypages",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "1650546141ed30d512",
+    "1650787211c529422b",
+    "1650718237dcaacecb",
+    "16474565353c0f5879",
+    "16508033723f1bf783",
+    "16505476253e029045",
+    "1650546352985d0b9a",
+    "1650803502ad4940a7",
+    "1650641669ecb09b67",
+    "1650792511d70ac2eb",
+    "zp-product-footer-content"
+  ]
+}

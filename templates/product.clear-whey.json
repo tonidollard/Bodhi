@@ -1,1 +1,767 @@
-{"sections":{"zp-product-header-content":{"type":"product-header-content-zipifypages","settings":{}},"main":{"type":"main-product","blocks":{"vendor":{"type":"text","disabled":true,"settings":{"text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{}},"price":{"type":"price","settings":{}},"description":{"type":"description","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button"}},"8e54bd74-a7e9-4f8a-a1d8-655836f4c70f":{"type":"subscription","disabled":true,"settings":{"sub_text":"","sub_link_text":"","sub_link":""}},"quantity_selector":{"type":"quantity_selector","disabled":true,"settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true}},"share":{"type":"share","disabled":true,"settings":{"share_label":"Share"}},"31813356-c48a-43b8-b578-9a73cb674c7f":{"type":"collapsible_tab","settings":{"heading":"Product Details","icon":"dairy","content":"<p>This One’s Different: No grit, no milky taste, no struggle to blend...just an easy-to-mix, smooth powder that<br\/>quickly transforms cool water into pure deliciousness. Each serving provides 25g of protein, zero sugar and a full amino profile. You’ve never had a whey protein supplement quite like this one - Replenish and rejuvenate with our fruity, clear protein drink in one of 3 incredible flavors.<\/p>","page":""}},"b67b9fc1-2994-4ed3-8251-7bccd96e4690":{"type":"collapsible_tab","settings":{"heading":"Ingredients","icon":"clipboard","content":"<p>Whey Protein Isolate, Natural Flavors, Citric Acid, Reb A (Stevia), Polysorbate 80 and\/or Sunflower Lecithin, Silicone (Antifoam), Monk Fruit Extract. Contains Milk.<\/p>","page":""}},"9d0cda0b-2a5b-427f-b843-4a22417e26fd":{"type":"collapsible_tab","settings":{"heading":"Suggested Use","icon":"bottle","content":"<p>Put 1 scoop in your Whey Goods Shaker Bottle with 8-12 ounces of water and shake well!  Drink 1-2 servings a day for optimial results.<\/p>","page":""}}},"block_order":["vendor","title","price","description","variant_picker","8e54bd74-a7e9-4f8a-a1d8-655836f4c70f","quantity_selector","buy_buttons","share","31813356-c48a-43b8-b578-9a73cb674c7f","b67b9fc1-2994-4ed3-8251-7bccd96e4690","9d0cda0b-2a5b-427f-b843-4a22417e26fd"],"settings":{"enable_sticky_info":true,"gallery_layout":"thumbnail","media_size":"medium","mobile_thumbnails":"show","hide_variants":true,"enable_video_looping":false,"padding_top":48,"padding_bottom":80}},"product-recommendations":{"type":"product-recommendations","disabled":true,"settings":{"heading":"You may also like","heading_size":"h1","columns_desktop":4,"color_scheme":"background-1","image_ratio":"adapt","show_secondary_image":false,"show_vendor":false,"show_rating":false,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"1650546141ed30d512":{"type":"section-press","blocks":{"ffddea73-6553-4e4b-809b-e740dc5c19ee":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_229_ab128308-71ae-4a77-9c9d-83fc82030c2e.png","claim":"Free Shipping on Order Above $99"}},"987f686b-ac7b-4423-9127-5bc3b4c61ef9":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_230_6962078f-59f4-4ddf-a0c0-6485ea10fc2c.png","claim":"Secured Payment & Checkout"}},"eeb21f66-8a30-4198-abb8-7dc082e57015":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_231_f2207f4a-c599-47d3-9175-bfc24779214a.png","claim":"30 Day Money Back Guarantee"}},"ada3915d-a521-4ec0-9c39-9c026ead59d5":{"type":"claim","settings":{"image":"shopify:\/\/shop_images\/Group_232_42b2e583-01e9-4bb5-ad63-86d2b72f1167.png","claim":"Easy Returns"}}},"block_order":["ffddea73-6553-4e4b-809b-e740dc5c19ee","987f686b-ac7b-4423-9127-5bc3b4c61ef9","eeb21f66-8a30-4198-abb8-7dc082e57015","ada3915d-a521-4ec0-9c39-9c026ead59d5"],"settings":{"bg":"#ffffff","border_color":"#222222","text_color":"#000000","section_type":"claims","title":"As Seen on","padding_top":8,"padding_bottom":8,"margin_top":0,"margin_bottom":0,"padding_top_mobile":12,"padding_bottom_mobile":12,"margin_top_mobile":0,"margin_bottom_mobile":0}},"1652215394033ea75d":{"type":"multicolumn","blocks":{"8ea38737-8b2c-404e-9a52-b1974910d9af":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_179.png","title":"Whey<br>Isolate","text":"","link_label":"","link":""}},"1652215394ce260b60-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_180.png","title":"Pre & Post<br>\nWorkout","text":"","link_label":"","link":""}},"1652215394ce260b60-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_181.png","title":"ZERO<br>Sugar","text":"","link_label":"","link":""}},"1652215394ce260b60-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_182.png","title":"Full BCAA<br>Profile","text":"","link_label":"","link":""}},"1c03ee82-d259-473d-b4b6-f2a928b96b49":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_183.png","title":"Low on<br>Carbs","text":"","link_label":"","link":""}},"15aafc4c-b430-4322-9e39-9edf25beb2de":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Group_184.png","title":"Faster<br>Absorption","text":"","link_label":"","link":""}}},"block_order":["8ea38737-8b2c-404e-9a52-b1974910d9af","1652215394ce260b60-0","1652215394ce260b60-1","1652215394ce260b60-2","1c03ee82-d259-473d-b4b6-f2a928b96b49","15aafc4c-b430-4322-9e39-9edf25beb2de"],"settings":{"bg-1":"#ffffff","subheading_color":"#000000","title_color":"#000000","text_color":"#000000","title":"","heading_style":"heading_with_text","heading_size":"h1","card_heading":"h3","subheading":"","text":"","image_width":35,"image_width_mob":40,"image_ratio":"adapt","columns_desktop":6,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"2","swipe_on_mobile":false,"padding_top":68,"padding_bottom":56}},"1652215752b600a1a5":{"type":"multicolumn","blocks":{"1652215752f6c128d8-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Untitled-1_eca06b69-780f-41dd-980d-c7d7e19d434c.jpg","title":"Protein That Is Clear As Water.","text":"<p>The team at Whey Goods came together to produce the world’s very first clear whey protein powder.  Taste like lemonade so you don't have to have another plain chalky shake again if you don't want to.<\/p>","link_label":"","link":""}},"1652215752f6c128d8-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/clearwhey5_f96ff5e7-dba4-4bdd-87b9-c1c7f24b0b07.jpg","title":"Protein That Is Chuggable!","text":"<p>Add to water, drop a few ice cubes, shake well and chug away! What other protein products can you do that with?! Don't worry, we'll wait.<\/p>","link_label":"","link":""}}},"block_order":["1652215752f6c128d8-0","1652215752f6c128d8-1"],"settings":{"bg-1":"#ffffff","subheading_color":"#000000","title_color":"#000000","text_color":"#000000","title":"Protein hasn't changed in decades. It's time it did.","heading_style":"heading_with_text","heading_size":"h1","card_heading":"h2","subheading":"What’s In The Scoop?","text":"<p>Never again do you have to choke down a thick shake. Introducing to you the, world's first ever clear whey protein. Our flavors taste exactly like they sound, we gaurantee it or your money back!<\/p>","image_width":100,"image_width_mob":100,"image_ratio":"adapt","columns_desktop":2,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"16474565353c0f5879":{"type":"image-with-text","blocks":{"0486b804-2546-46b0-8720-6d5d291fb43d":{"type":"subheading","settings":{"subheading_color":"#000000","subheading":"protein will never be the same again"}},"1647456535adf22661-0":{"type":"heading","settings":{"heading_color":"#000000","heading":"Never again choke down another chalky shake.","heading_size":"h1"}},"1647456535adf22661-1":{"type":"text","settings":{"text_color":"#000000","text":"<p>Easy-Peasy Lemon Squeezy. Scrumptious Lemon Lime\nAcai, Iced Tea Lemonade, or Watermelon Coconut? Whichever zingy taste fits your mood, you can easily enjoy a\nbright, flavor-bursting beverage of your choice. You have busy mornings, places to be! Mix an easy scoop with\nwater, stir or shake it up, and you’re good-to-go. Invigorating goodness as you stride out that door..<\/p>\n\n<ul role=\"list\" class=\"tick secondary\">\n  <li>ZERO sugar & low calories to help with your 6-pack goals!<\/li>\n  <li>More refreshing than running through a sprinkler in summer!<\/li>\n  <li> No chunks make for easy chugging!<\/li>\n<\/ul>","text_style":"body"}}},"block_order":["0486b804-2546-46b0-8720-6d5d291fb43d","1647456535adf22661-0","1647456535adf22661-1"],"settings":{"use_bg":true,"use_half_mobile":false,"full_width":true,"no_image":false,"bg":"#ffffff","bg_back":"#ffffff","bg_secondary":"#ffffff","image":"shopify:\/\/shop_images\/cw2_f5e40d03-9295-4776-a780-993f88eea813.jpg","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"accent-2","mobile_content_alignment":"left","padding_top":84,"padding_bottom":84,"margin_top":0,"margin_bottom":0,"padding_top_mobile":8,"padding_bottom_mobile":68,"margin_top_mobile":0,"margin_bottom_mobile":0}},"1652216049579c6d1d":{"type":"section-reviews","blocks":{"573a431c-0aae-4f7b-afb3-b11f74e994ee":{"type":"review","settings":{"review":"\"This has my mind blown. It's so dang good. I've honestly tried so many superfood drinks and always throw them.\"","review_name":"lemon lime acai Customer"}},"52e7b19e-8c79-4b34-891a-f513e8f20aeb":{"type":"review","settings":{"review":"\"Great taste, mixes well. I don't like milky shakes but enjoy clear drinks, I have tried a few that just didn't mix well. This one mixes quickly and has a subtle fruity flavor that will mix well with other supplements such as bcaa's.\"","review_name":"Amazon Customer"}},"3e66b588-e468-40ca-a922-44e7dfbcf0ed":{"type":"review","settings":{"review":"\"I’m still amazed over this protein! Sometimes I forget that I’m having a protein drink because it tastes just like an Arnold Palmer! It’s just THAT good! Highly recommend!\"","review_name":"ice tea lemonade customer"}},"12e65d80-8f4b-4e3e-b16e-35a3207e2591":{"type":"review","disabled":true,"settings":{"review":"\"WOW!! This protein shake SHOOK my world! I have tried other shakes before but always quit after the taste made my head spin. NOT WITH THIS PROTEIN POWDER! All three flavors are better than anything I have tried. Every sip is like a bonne bouche....as the french might say. PROTEIN IS FUN AGAIN!\"","review_name":"watermelon coconut customer"}},"be2f1da8-f8fa-43df-aa13-8852cf68d0c6":{"type":"review","settings":{"review":"\"Been looking for something new to help replace chalky flavors and clumping. The first mix I had convinced me this will be a new staple go to for protein drinks going forward.\"","review_name":"ice tea lemonade customer"}},"bf0b31fb-a909-49db-9fc8-c70188446bbd":{"type":"review","settings":{"review":"\"WHERE HAVE YOU BEEN ALL MY LIFE!!!\"","review_name":"amazon customer"}},"b6e3e3a0-733f-422a-9912-46ecca6a5eab":{"type":"review","settings":{"review":"\"I have been sick of the vanilla\/Chocolate\/cake etc. flavors proteins. The taste of the Lemon Lime acai is phenomenal and perfect after a cardio focused workout.\"","review_name":"lemon lime acai customer"}}},"block_order":["573a431c-0aae-4f7b-afb3-b11f74e994ee","52e7b19e-8c79-4b34-891a-f513e8f20aeb","3e66b588-e468-40ca-a922-44e7dfbcf0ed","12e65d80-8f4b-4e3e-b16e-35a3207e2591","be2f1da8-f8fa-43df-aa13-8852cf68d0c6","bf0b31fb-a909-49db-9fc8-c70188446bbd","b6e3e3a0-733f-422a-9912-46ecca6a5eab"],"settings":{"container-large":true,"use_gradient":false,"bg-1":"#0d0d0d","bg-2":"#ffffff","subheading_color":"#ffeb7c","heading_color":"#ffffff","text_color":"#ffffff","rating_color":"#efa528","review_color":"#161616","review_name_color":"#161616","subheading":"real people, real reviews","heading":"The People Have Spoken","heading_style":"heading_with_text","heading_size":"h1","text":"<p>This clear whey protein is so ground breaking we are just don't know what else to say. A money back gaurantee, around the clock customer service to help you and boat loads of reviews across the web raving about this stuff. See for yourself.<\/p>","button_label":"Button label","button_link":"","button_style_secondary":false,"text_style":"background-1","button_style":"primary","padding_top":60,"padding_bottom":60,"margin_top":0,"margin_bottom":0,"padding_top_mobile":52,"padding_bottom_mobile":52,"margin_top_mobile":0,"margin_bottom_mobile":0}},"16505476253e029045":{"type":"image-with-text","blocks":{"1650547625d1ae993e-0":{"type":"heading","settings":{"heading_color":"#0d0d0d","heading":"More Than Protein","heading_size":"h1"}},"1650547625d1ae993e-1":{"type":"text","settings":{"text_color":"#0d0d0d","text":"Make it a mission to savor 2 full servings of our clear whey isolate protein each day: one in the morning, and another in the afternoon. See how you feel! We’re betting on some boosting effects to your mood, energy levels, workouts, body, and overall system functions. We get mind-blowing feedback from customers all the time—and it NEVER gets old!\n\n.\n<ul role=\"list\" class=\"tick secondary\">\n  <li>Helping you drink more water<\/li>\n  <li>Helping you take in more protein daily<\/li>\n  <li>Helping you boost your bodies natural energy<\/li>\n<\/ul>","text_style":"body"}},"4aaef842-bc38-49ea-9af8-9f47aa59d7e1":{"type":"info-blocks","disabled":true,"settings":{"heading_color":"#ffffff","subheading_color":"#ffeb7c","heading1":"25%","subheading1":"Protein","heading2":"12%","subheading2":"Carbs","heading3":"0.1%","subheading3":"Sugar","heading4":"","subheading4":""}}},"block_order":["1650547625d1ae993e-0","1650547625d1ae993e-1","4aaef842-bc38-49ea-9af8-9f47aa59d7e1"],"settings":{"use_bg":true,"use_half_mobile":false,"full_width":true,"no_image":false,"bg":"#ffffff","bg_back":"#ffffff","bg_secondary":"#ffffff","image":"shopify:\/\/shop_images\/DSF5406_copy.jpg","height":"adapt","desktop_image_width":"medium","layout":"text_first","desktop_content_position":"middle","desktop_content_alignment":"left","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":76,"padding_bottom":76,"margin_top":0,"margin_bottom":0,"padding_top_mobile":40,"padding_bottom_mobile":48,"margin_top_mobile":0,"margin_bottom_mobile":0}},"1652300328a6d44374":{"type":"apps","disabled":true,"blocks":{"c1ad97f6-d27f-4197-99db-a2e969786e84":{"type":"shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/reviews-widget\/bb689e69-ea70-4661-8fb7-ad24a2e23c29","settings":{"product":"{{product}}","widget_type":"reviews_widget"}}},"block_order":["c1ad97f6-d27f-4197-99db-a2e969786e84"],"settings":{"include_margins":true}},"1650546352985d0b9a":{"type":"section-icon-slider","blocks":{"e01bf1ee-45f1-49ca-9bf5-776d03cbead9":{"type":"icon","settings":{"image":"shopify:\/\/shop_images\/icon3.png","title":"Choose Your Flavor","para":"We've crafted 3 refreshing falvors, Watermelon Coconut, Ice Tea Lemonade and Lemon Lime Acai. Flavors that you can drink, chug, mix at a party or in the gym!"}},"8da69e16-ad25-4d74-ad96-9a29103eb2d5":{"type":"icon","settings":{"image":"shopify:\/\/shop_images\/icon-sup3.png","title":"Pair With A Superfood","para":"Supercharge your plant protein with 60+ ingredients in our Greens, Yellows & Reds. 1 scoop of each and you're on your way to superhero status!"}},"06728712-3469-45d2-b7dd-641fa87dce73":{"type":"icon","settings":{"image":"shopify:\/\/shop_images\/icon-sch3.png","title":"Schedule Your Orders","para":"When do you want to get these? Every 2 weeks or every 8 weeks, or anything in between?! You can make sure you're getting what you want when you want it."}}},"block_order":["e01bf1ee-45f1-49ca-9bf5-776d03cbead9","8da69e16-ad25-4d74-ad96-9a29103eb2d5","06728712-3469-45d2-b7dd-641fa87dce73"],"settings":{"bg":"#ffffff","subheading_color":"#222222","heading_color":"#222222","text_color":"#222222","block_heading_color":"#222222","block_text_color":"#222222","container-large":false,"use_gradient":false,"bg-1":"#f7f7f7","bg-2":"#ffffff","heading":"Protein Of Champions or just me and you, same thing.","subheading":"just hits different","heading_size":"h1","text":"<p>25g of protein per serving, full amino profile, mixes clear and settles without chunks. This is revolutionary stuff here.  Go from never wanting a shake to wanting 2-3 a day! So many great things will come from this. More water every day, more daily protein grams in a day, more progress in daily activities, better recovery, the list goes on. <\/p>","text_style":"background-1","padding_top":76,"padding_bottom":12,"margin_top":0,"margin_bottom":0,"padding_top_mobile":100,"padding_bottom_mobile":56,"margin_top_mobile":0,"margin_bottom_mobile":0}},"1652218001eaafe9d4":{"type":"image-with-text","blocks":{"1652218001da87f0c9-0":{"type":"heading","settings":{"heading_color":"#0d0d0d","heading":"Try Our Clear Whey Protein Today Risk Free!","heading_size":"h1"}},"1652218001da87f0c9-1":{"type":"text","settings":{"text_color":"#0d0d0d","text":"We offer this because we stand by our products and stand by the results. We put our money where our mouth is. If you don't like, we'll refund you the full amount no questions asked. We just want you to feel great everyday. We believe in you.","text_style":"body"}},"1652218001da87f0c9-2":{"type":"button","settings":{"button_style":"primary","button_label":"Shop Now","button_link":"#ProductInfo-template--15570087608494__main"}}},"block_order":["1652218001da87f0c9-0","1652218001da87f0c9-1","1652218001da87f0c9-2"],"settings":{"use_bg":true,"use_half_mobile":true,"full_width":false,"no_image":true,"bg":"#ffeb7c","bg_back":"#ffffff","bg_secondary":"#f7f7f7","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"center","content_layout":"no-overlap","color_scheme":"background-1","mobile_content_alignment":"left","padding_top":0,"padding_bottom":0,"margin_top":0,"margin_bottom":0,"padding_top_mobile":0,"padding_bottom_mobile":0,"margin_top_mobile":0,"margin_bottom_mobile":0}},"1650641669ecb09b67":{"type":"section-recommended-products","blocks":{"b13302c2-2ffe-4994-b731-747ee089f6ca":{"type":"product","settings":{"product":"plant-based-protein"}},"60f9cfa7-0201-4340-bd93-e7b044a22a59":{"type":"product","settings":{"product":"superfood-blends"}},"b78b0b47-3b99-4496-b3dc-f2275386ba2e":{"type":"product","settings":{"product":"shaker-bottle"}}},"block_order":["b13302c2-2ffe-4994-b731-747ee089f6ca","60f9cfa7-0201-4340-bd93-e7b044a22a59","b78b0b47-3b99-4496-b3dc-f2275386ba2e"],"settings":{"use_custom":true,"container-large":false,"slider_mobile":true,"use_gradient":false,"bg-1":"#ffffff","bg-2":"#ffffff","subheading":"Recommended","heading":"People also bought","heading_style":"only_heading","heading_size":"h1","text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","button_label":"Button label","button_link":"","button_style_secondary":false,"text_style":"background-1","button_style":"primary","padding_top":64,"padding_bottom":64,"margin_top":0,"margin_bottom":0,"padding_top_mobile":60,"padding_bottom_mobile":48,"margin_top_mobile":0,"margin_bottom_mobile":0}},"zp-product-footer-content":{"type":"product-footer-content-zipifypages","settings":{}}},"order":["zp-product-header-content","main","product-recommendations","1650546141ed30d512","1652215394033ea75d","1652215752b600a1a5","16474565353c0f5879","1652216049579c6d1d","16505476253e029045","1652300328a6d44374","1650546352985d0b9a","1652218001eaafe9d4","1650641669ecb09b67","zp-product-footer-content"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "8e54bd74-a7e9-4f8a-a1d8-655836f4c70f": {
+          "type": "subscription",
+          "disabled": true,
+          "settings": {
+            "sub_text": "",
+            "sub_link_text": "",
+            "sub_link": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "31813356-c48a-43b8-b578-9a73cb674c7f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Product Details",
+            "icon": "dairy",
+            "content": "<p>This One’s Different: No grit, no milky taste, no struggle to blend...just an easy-to-mix, smooth powder that<br/>quickly transforms cool water into pure deliciousness. Each serving provides 25g of protein, zero sugar and a full amino profile. You’ve never had a whey protein supplement quite like this one - Replenish and rejuvenate with our fruity, clear protein drink in one of 3 incredible flavors.</p>",
+            "page": ""
+          }
+        },
+        "b67b9fc1-2994-4ed3-8251-7bccd96e4690": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingredients",
+            "icon": "clipboard",
+            "content": "<p>Whey Protein Isolate, Natural Flavors, Citric Acid, Reb A (Stevia), Polysorbate 80 and/or Sunflower Lecithin, Silicone (Antifoam), Monk Fruit Extract. Contains Milk.</p>",
+            "page": ""
+          }
+        },
+        "9d0cda0b-2a5b-427f-b843-4a22417e26fd": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Suggested Use",
+            "icon": "bottle",
+            "content": "<p>Put 1 scoop in your Whey Goods Shaker Bottle with 8-12 ounces of water and shake well!  Drink 1-2 servings a day for optimial results.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "description",
+        "variant_picker",
+        "8e54bd74-a7e9-4f8a-a1d8-655836f4c70f",
+        "quantity_selector",
+        "buy_buttons",
+        "share",
+        "31813356-c48a-43b8-b578-9a73cb674c7f",
+        "b67b9fc1-2994-4ed3-8251-7bccd96e4690",
+        "9d0cda0b-2a5b-427f-b843-4a22417e26fd"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "gallery_layout": "thumbnail",
+        "media_size": "medium",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 48,
+        "padding_bottom": 80
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h1",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1650546141ed30d512": {
+      "type": "section-press",
+      "blocks": {
+        "ffddea73-6553-4e4b-809b-e740dc5c19ee": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_229_ab128308-71ae-4a77-9c9d-83fc82030c2e.png",
+            "claim": "Free Shipping on Order Above $99"
+          }
+        },
+        "987f686b-ac7b-4423-9127-5bc3b4c61ef9": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_230_6962078f-59f4-4ddf-a0c0-6485ea10fc2c.png",
+            "claim": "Secured Payment & Checkout"
+          }
+        },
+        "eeb21f66-8a30-4198-abb8-7dc082e57015": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_231_f2207f4a-c599-47d3-9175-bfc24779214a.png",
+            "claim": "30 Day Money Back Guarantee"
+          }
+        },
+        "ada3915d-a521-4ec0-9c39-9c026ead59d5": {
+          "type": "claim",
+          "settings": {
+            "image": "shopify://shop_images/Group_232_42b2e583-01e9-4bb5-ad63-86d2b72f1167.png",
+            "claim": "Easy Returns"
+          }
+        }
+      },
+      "block_order": [
+        "ffddea73-6553-4e4b-809b-e740dc5c19ee",
+        "987f686b-ac7b-4423-9127-5bc3b4c61ef9",
+        "eeb21f66-8a30-4198-abb8-7dc082e57015",
+        "ada3915d-a521-4ec0-9c39-9c026ead59d5"
+      ],
+      "settings": {
+        "bg": "#ffffff",
+        "border_color": "#222222",
+        "text_color": "#000000",
+        "section_type": "claims",
+        "title": "As Seen on",
+        "padding_top": 8,
+        "padding_bottom": 8,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 12,
+        "padding_bottom_mobile": 12,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "1652215394033ea75d": {
+      "type": "multicolumn",
+      "blocks": {
+        "8ea38737-8b2c-404e-9a52-b1974910d9af": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_179.png",
+            "title": "Whey<br>Isolate",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1652215394ce260b60-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_180.png",
+            "title": "Pre & Post<br>\nWorkout",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1652215394ce260b60-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_181.png",
+            "title": "ZERO<br>Sugar",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1652215394ce260b60-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_182.png",
+            "title": "Full BCAA<br>Profile",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1c03ee82-d259-473d-b4b6-f2a928b96b49": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_183.png",
+            "title": "Low on<br>Carbs",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "15aafc4c-b430-4322-9e39-9edf25beb2de": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Group_184.png",
+            "title": "Faster<br>Absorption",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "8ea38737-8b2c-404e-9a52-b1974910d9af",
+        "1652215394ce260b60-0",
+        "1652215394ce260b60-1",
+        "1652215394ce260b60-2",
+        "1c03ee82-d259-473d-b4b6-f2a928b96b49",
+        "15aafc4c-b430-4322-9e39-9edf25beb2de"
+      ],
+      "settings": {
+        "bg-1": "#ffffff",
+        "subheading_color": "#000000",
+        "title_color": "#000000",
+        "text_color": "#000000",
+        "title": "",
+        "heading_style": "heading_with_text",
+        "heading_size": "h1",
+        "card_heading": "h3",
+        "subheading": "",
+        "text": "",
+        "image_width": 35,
+        "image_width_mob": 40,
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 68,
+        "padding_bottom": 56
+      }
+    },
+    "1652215752b600a1a5": {
+      "type": "multicolumn",
+      "blocks": {
+        "1652215752f6c128d8-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Untitled-1_eca06b69-780f-41dd-980d-c7d7e19d434c.jpg",
+            "title": "Protein That Is Clear As Water.",
+            "text": "<p>The team at Whey Goods came together to produce the world’s very first clear whey protein powder.  Taste like lemonade so you don't have to have another plain chalky shake again if you don't want to.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1652215752f6c128d8-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/clearwhey5_f96ff5e7-dba4-4bdd-87b9-c1c7f24b0b07.jpg",
+            "title": "Protein That Is Chuggable!",
+            "text": "<p>Add to water, drop a few ice cubes, shake well and chug away! What other protein products can you do that with?! Don't worry, we'll wait.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1652215752f6c128d8-0",
+        "1652215752f6c128d8-1"
+      ],
+      "settings": {
+        "bg-1": "#ffffff",
+        "subheading_color": "#000000",
+        "title_color": "#000000",
+        "text_color": "#000000",
+        "title": "Protein hasn't changed in decades. It's time it did.",
+        "heading_style": "heading_with_text",
+        "heading_size": "h1",
+        "card_heading": "h2",
+        "subheading": "What’s In The Scoop?",
+        "text": "<p>Never again do you have to choke down a thick shake. Introducing to you the, world's first ever clear whey protein. Our flavors taste exactly like they sound, we gaurantee it or your money back!</p>",
+        "image_width": 100,
+        "image_width_mob": 100,
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16474565353c0f5879": {
+      "type": "image-with-text",
+      "blocks": {
+        "0486b804-2546-46b0-8720-6d5d291fb43d": {
+          "type": "subheading",
+          "settings": {
+            "subheading_color": "#000000",
+            "subheading": "protein will never be the same again"
+          }
+        },
+        "1647456535adf22661-0": {
+          "type": "heading",
+          "settings": {
+            "heading_color": "#000000",
+            "heading": "Never again choke down another chalky shake.",
+            "heading_size": "h1"
+          }
+        },
+        "1647456535adf22661-1": {
+          "type": "text",
+          "settings": {
+            "text_color": "#000000",
+            "text": "<p>Easy-Peasy Lemon Squeezy. Scrumptious Lemon Lime\nAcai, Iced Tea Lemonade, or Watermelon Coconut? Whichever zingy taste fits your mood, you can easily enjoy a\nbright, flavor-bursting beverage of your choice. You have busy mornings, places to be! Mix an easy scoop with\nwater, stir or shake it up, and you’re good-to-go. Invigorating goodness as you stride out that door..</p>\n\n<ul role=\"list\" class=\"tick secondary\">\n  <li>ZERO sugar & low calories to help with your 6-pack goals!</li>\n  <li>More refreshing than running through a sprinkler in summer!</li>\n  <li> No chunks make for easy chugging!</li>\n</ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "0486b804-2546-46b0-8720-6d5d291fb43d",
+        "1647456535adf22661-0",
+        "1647456535adf22661-1"
+      ],
+      "settings": {
+        "use_bg": true,
+        "use_half_mobile": false,
+        "full_width": true,
+        "no_image": false,
+        "bg": "#ffffff",
+        "bg_back": "#ffffff",
+        "bg_secondary": "#ffffff",
+        "image": "shopify://shop_images/cw2_f5e40d03-9295-4776-a780-993f88eea813.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 84,
+        "padding_bottom": 84,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 8,
+        "padding_bottom_mobile": 68,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "1652216049579c6d1d": {
+      "type": "section-reviews",
+      "blocks": {
+        "573a431c-0aae-4f7b-afb3-b11f74e994ee": {
+          "type": "review",
+          "settings": {
+            "review": "\"This has my mind blown. It's so dang good. I've honestly tried so many superfood drinks and always throw them.\"",
+            "review_name": "lemon lime acai Customer"
+          }
+        },
+        "52e7b19e-8c79-4b34-891a-f513e8f20aeb": {
+          "type": "review",
+          "settings": {
+            "review": "\"Great taste, mixes well. I don't like milky shakes but enjoy clear drinks, I have tried a few that just didn't mix well. This one mixes quickly and has a subtle fruity flavor that will mix well with other supplements such as bcaa's.\"",
+            "review_name": "Amazon Customer"
+          }
+        },
+        "3e66b588-e468-40ca-a922-44e7dfbcf0ed": {
+          "type": "review",
+          "settings": {
+            "review": "\"I’m still amazed over this protein! Sometimes I forget that I’m having a protein drink because it tastes just like an Arnold Palmer! It’s just THAT good! Highly recommend!\"",
+            "review_name": "ice tea lemonade customer"
+          }
+        },
+        "12e65d80-8f4b-4e3e-b16e-35a3207e2591": {
+          "type": "review",
+          "disabled": true,
+          "settings": {
+            "review": "\"WOW!! This protein shake SHOOK my world! I have tried other shakes before but always quit after the taste made my head spin. NOT WITH THIS PROTEIN POWDER! All three flavors are better than anything I have tried. Every sip is like a bonne bouche....as the french might say. PROTEIN IS FUN AGAIN!\"",
+            "review_name": "watermelon coconut customer"
+          }
+        },
+        "be2f1da8-f8fa-43df-aa13-8852cf68d0c6": {
+          "type": "review",
+          "settings": {
+            "review": "\"Been looking for something new to help replace chalky flavors and clumping. The first mix I had convinced me this will be a new staple go to for protein drinks going forward.\"",
+            "review_name": "ice tea lemonade customer"
+          }
+        },
+        "bf0b31fb-a909-49db-9fc8-c70188446bbd": {
+          "type": "review",
+          "settings": {
+            "review": "\"WHERE HAVE YOU BEEN ALL MY LIFE!!!\"",
+            "review_name": "amazon customer"
+          }
+        },
+        "b6e3e3a0-733f-422a-9912-46ecca6a5eab": {
+          "type": "review",
+          "settings": {
+            "review": "\"I have been sick of the vanilla/Chocolate/cake etc. flavors proteins. The taste of the Lemon Lime acai is phenomenal and perfect after a cardio focused workout.\"",
+            "review_name": "lemon lime acai customer"
+          }
+        }
+      },
+      "block_order": [
+        "573a431c-0aae-4f7b-afb3-b11f74e994ee",
+        "52e7b19e-8c79-4b34-891a-f513e8f20aeb",
+        "3e66b588-e468-40ca-a922-44e7dfbcf0ed",
+        "12e65d80-8f4b-4e3e-b16e-35a3207e2591",
+        "be2f1da8-f8fa-43df-aa13-8852cf68d0c6",
+        "bf0b31fb-a909-49db-9fc8-c70188446bbd",
+        "b6e3e3a0-733f-422a-9912-46ecca6a5eab"
+      ],
+      "settings": {
+        "container-large": true,
+        "use_gradient": false,
+        "bg-1": "#0d0d0d",
+        "bg-2": "#ffffff",
+        "subheading_color": "#ffeb7c",
+        "heading_color": "#ffffff",
+        "text_color": "#ffffff",
+        "rating_color": "#efa528",
+        "review_color": "#161616",
+        "review_name_color": "#161616",
+        "subheading": "real people, real reviews",
+        "heading": "The People Have Spoken",
+        "heading_style": "heading_with_text",
+        "heading_size": "h1",
+        "text": "<p>This clear whey protein is so ground breaking we are just don't know what else to say. A money back gaurantee, around the clock customer service to help you and boat loads of reviews across the web raving about this stuff. See for yourself.</p>",
+        "button_label": "Button label",
+        "button_link": "",
+        "button_style_secondary": false,
+        "text_style": "background-1",
+        "button_style": "primary",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 52,
+        "padding_bottom_mobile": 52,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "16505476253e029045": {
+      "type": "image-with-text",
+      "blocks": {
+        "1650547625d1ae993e-0": {
+          "type": "heading",
+          "settings": {
+            "heading_color": "#0d0d0d",
+            "heading": "More Than Protein",
+            "heading_size": "h1"
+          }
+        },
+        "1650547625d1ae993e-1": {
+          "type": "text",
+          "settings": {
+            "text_color": "#0d0d0d",
+            "text": "Make it a mission to savor 2 full servings of our clear whey isolate protein each day: one in the morning, and another in the afternoon. See how you feel! We’re betting on some boosting effects to your mood, energy levels, workouts, body, and overall system functions. We get mind-blowing feedback from customers all the time—and it NEVER gets old!\n\n.\n<ul role=\"list\" class=\"tick secondary\">\n  <li>Helping you drink more water</li>\n  <li>Helping you take in more protein daily</li>\n  <li>Helping you boost your bodies natural energy</li>\n</ul>",
+            "text_style": "body"
+          }
+        },
+        "4aaef842-bc38-49ea-9af8-9f47aa59d7e1": {
+          "type": "info-blocks",
+          "disabled": true,
+          "settings": {
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffeb7c",
+            "heading1": "25%",
+            "subheading1": "Protein",
+            "heading2": "12%",
+            "subheading2": "Carbs",
+            "heading3": "0.1%",
+            "subheading3": "Sugar",
+            "heading4": "",
+            "subheading4": ""
+          }
+        }
+      },
+      "block_order": [
+        "1650547625d1ae993e-0",
+        "1650547625d1ae993e-1",
+        "4aaef842-bc38-49ea-9af8-9f47aa59d7e1"
+      ],
+      "settings": {
+        "use_bg": true,
+        "use_half_mobile": false,
+        "full_width": true,
+        "no_image": false,
+        "bg": "#ffffff",
+        "bg_back": "#ffffff",
+        "bg_secondary": "#ffffff",
+        "image": "shopify://shop_images/DSF5406_copy.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 76,
+        "padding_bottom": 76,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 40,
+        "padding_bottom_mobile": 48,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "1652300328a6d44374": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "c1ad97f6-d27f-4197-99db-a2e969786e84": {
+          "type": "shopify://apps/okendo-product-reviews-ugc/blocks/reviews-widget/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "c1ad97f6-d27f-4197-99db-a2e969786e84"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1650546352985d0b9a": {
+      "type": "section-icon-slider",
+      "blocks": {
+        "e01bf1ee-45f1-49ca-9bf5-776d03cbead9": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/icon3.png",
+            "title": "Choose Your Flavor",
+            "para": "We've crafted 3 refreshing falvors, Watermelon Coconut, Ice Tea Lemonade and Lemon Lime Acai. Flavors that you can drink, chug, mix at a party or in the gym!"
+          }
+        },
+        "8da69e16-ad25-4d74-ad96-9a29103eb2d5": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/icon-sup3.png",
+            "title": "Pair With A Superfood",
+            "para": "Supercharge your plant protein with 60+ ingredients in our Greens, Yellows & Reds. 1 scoop of each and you're on your way to superhero status!"
+          }
+        },
+        "06728712-3469-45d2-b7dd-641fa87dce73": {
+          "type": "icon",
+          "settings": {
+            "image": "shopify://shop_images/icon-sch3.png",
+            "title": "Schedule Your Orders",
+            "para": "When do you want to get these? Every 2 weeks or every 8 weeks, or anything in between?! You can make sure you're getting what you want when you want it."
+          }
+        }
+      },
+      "block_order": [
+        "e01bf1ee-45f1-49ca-9bf5-776d03cbead9",
+        "8da69e16-ad25-4d74-ad96-9a29103eb2d5",
+        "06728712-3469-45d2-b7dd-641fa87dce73"
+      ],
+      "settings": {
+        "bg": "#ffffff",
+        "subheading_color": "#222222",
+        "heading_color": "#222222",
+        "text_color": "#222222",
+        "block_heading_color": "#222222",
+        "block_text_color": "#222222",
+        "container-large": false,
+        "use_gradient": false,
+        "bg-1": "#f7f7f7",
+        "bg-2": "#ffffff",
+        "heading": "Protein Of Champions or just me and you, same thing.",
+        "subheading": "just hits different",
+        "heading_size": "h1",
+        "text": "<p>25g of protein per serving, full amino profile, mixes clear and settles without chunks. This is revolutionary stuff here.  Go from never wanting a shake to wanting 2-3 a day! So many great things will come from this. More water every day, more daily protein grams in a day, more progress in daily activities, better recovery, the list goes on. </p>",
+        "text_style": "background-1",
+        "padding_top": 76,
+        "padding_bottom": 12,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 100,
+        "padding_bottom_mobile": 56,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "1652218001eaafe9d4": {
+      "type": "image-with-text",
+      "blocks": {
+        "1652218001da87f0c9-0": {
+          "type": "heading",
+          "settings": {
+            "heading_color": "#0d0d0d",
+            "heading": "Try Our Clear Whey Protein Today Risk Free!",
+            "heading_size": "h1"
+          }
+        },
+        "1652218001da87f0c9-1": {
+          "type": "text",
+          "settings": {
+            "text_color": "#0d0d0d",
+            "text": "We offer this because we stand by our products and stand by the results. We put our money where our mouth is. If you don't like, we'll refund you the full amount no questions asked. We just want you to feel great everyday. We believe in you.",
+            "text_style": "body"
+          }
+        },
+        "1652218001da87f0c9-2": {
+          "type": "button",
+          "settings": {
+            "button_style": "primary",
+            "button_label": "Shop Now",
+            "button_link": "#ProductInfo-template--15570087608494__main"
+          }
+        }
+      },
+      "block_order": [
+        "1652218001da87f0c9-0",
+        "1652218001da87f0c9-1",
+        "1652218001da87f0c9-2"
+      ],
+      "settings": {
+        "use_bg": true,
+        "use_half_mobile": true,
+        "full_width": false,
+        "no_image": true,
+        "bg": "#ffeb7c",
+        "bg_back": "#ffffff",
+        "bg_secondary": "#f7f7f7",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 0,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "1650641669ecb09b67": {
+      "type": "section-recommended-products",
+      "blocks": {
+        "b13302c2-2ffe-4994-b731-747ee089f6ca": {
+          "type": "product",
+          "settings": {
+            "product": "plant-based-protein"
+          }
+        },
+        "60f9cfa7-0201-4340-bd93-e7b044a22a59": {
+          "type": "product",
+          "settings": {
+            "product": "superfood-blends"
+          }
+        },
+        "b78b0b47-3b99-4496-b3dc-f2275386ba2e": {
+          "type": "product",
+          "settings": {
+            "product": "shaker-bottle"
+          }
+        }
+      },
+      "block_order": [
+        "b13302c2-2ffe-4994-b731-747ee089f6ca",
+        "60f9cfa7-0201-4340-bd93-e7b044a22a59",
+        "b78b0b47-3b99-4496-b3dc-f2275386ba2e"
+      ],
+      "settings": {
+        "use_custom": true,
+        "container-large": false,
+        "slider_mobile": true,
+        "use_gradient": false,
+        "bg-1": "#ffffff",
+        "bg-2": "#ffffff",
+        "subheading": "Recommended",
+        "heading": "People also bought",
+        "heading_style": "only_heading",
+        "heading_size": "h1",
+        "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+        "button_label": "Button label",
+        "button_link": "",
+        "button_style_secondary": false,
+        "text_style": "background-1",
+        "button_style": "primary",
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top_mobile": 60,
+        "padding_bottom_mobile": 48,
+        "margin_top_mobile": 0,
+        "margin_bottom_mobile": 0
+      }
+    },
+    "zp-product-footer-content": {
+      "type": "product-footer-content-zipifypages",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "1650546141ed30d512",
+    "1652215394033ea75d",
+    "1652215752b600a1a5",
+    "16474565353c0f5879",
+    "1652216049579c6d1d",
+    "16505476253e029045",
+    "1652300328a6d44374",
+    "1650546352985d0b9a",
+    "1652218001eaafe9d4",
+    "1650641669ecb09b67",
+    "zp-product-footer-content"
+  ]
+}
