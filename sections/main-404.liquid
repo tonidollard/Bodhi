@@ -19,9 +19,11 @@
   <h1 class="title" style="max-width: 600px; margin: 0 auto 30px;">
     {{ 'templates.404.title' | t }}
   </h1>
+  {%- unless section.settings.image == blank -%}
   <div style="max-width: 700px; margin: 0 auto;">
     {{ section.settings.image | image_url: width: 868 | image_tag: widths: '375, 390, 420, 540, 600, 750, 780, 868', preload: true, sizes: '(min-width: 750px) 868px, (min-width: 480px) and (max-width: 749px) 600px, (min-width: 1px) and (max-width: 479px) 600px' }}
   </div>
+  {%- endunless -%}
   <a href="{{ routes.all_products_collection_url }}" class="button" style="margin-top: 20px;">
     {{ 'general.continue_shopping' | t }}
   </a>
