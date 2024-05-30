@@ -737,10 +737,6 @@
         "margin_top_mobile": 0,
         "margin_bottom_mobile": 0
       }
-    },
-    "zp-product-footer-content": {
-      "type": "product-footer-content-zipifypages",
-      "settings": {}
     }
   },
   "order": [
@@ -754,7 +750,6 @@
     "16505476253e029045",
     "1650546352985d0b9a",
     "1652218001eaafe9d4",
-    "1650641669ecb09b67",
-    "zp-product-footer-content"
+    "1650641669ecb09b67"
   ]
 }

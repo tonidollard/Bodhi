@@ -807,10 +807,6 @@
         "padding_top": 84,
         "padding_bottom": 92
       }
-    },
-    "zp-product-footer-content": {
-      "type": "product-footer-content-zipifypages",
-      "settings": {}
     }
   },
   "order": [
@@ -825,7 +821,6 @@
     "1650546352985d0b9a",
     "1650803502ad4940a7",
     "1650641669ecb09b67",
-    "1650792511d70ac2eb",
-    "zp-product-footer-content"
+    "1650792511d70ac2eb"
   ]
 }
